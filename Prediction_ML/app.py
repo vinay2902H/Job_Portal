@@ -5,8 +5,16 @@ import os
 
 app = Flask(__name__)
 
-# ✅ Allow only your frontend domain for security
-CORS(app, resources={r"/predict": {"origins": "https://jobportal-offical.netlify.app"}})
+# ✅ Allow both deployed frontend and local development
+CORS(app, resources={
+    r"/predict": {
+        "origins": [
+            "https://jobportal-offical.netlify.app",
+            "http://localhost:5000",
+            "http://localhost:5173"  # Common for Vite
+        ]
+    }
+})
 
 # Load ML models
 try:
@@ -21,7 +29,7 @@ except Exception as e:
 def home():
     return jsonify({"message": "Career Path Predictor Backend Running ✅"}), 200
 
-@app.route("/predict", methods=["POST", "OPTIONS"])  # ✅ Handle preflight too
+@app.route("/predict", methods=["POST", "OPTIONS"])
 def predict():
     try:
         data = request.get_json()
@@ -33,14 +41,10 @@ def predict():
         if not current_role or not skills:
             return jsonify({"error": "Missing required fields"}), 400
 
-        # Combine inputs for career model
         combined_input = current_role + " " + skills
-
-        # Predict next role
         encoded_prediction = career_model.predict([combined_input])[0]
         predicted_role = label_encoder.inverse_transform([encoded_prediction])[0]
 
-        # Predict salary
         try:
             experience_val = float(experience)
         except ValueError:
