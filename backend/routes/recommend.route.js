@@ -8,7 +8,7 @@ router.post("/", async (req, res) => {
   const { skills } = req.body;
 
   try {
-    const response = await axios.post("https://job-portal-1-olnv.onrender.com/recommend", { skills });
+    const response = await axios.post("https://job-portal-x4cs.onrender.com/recommend", { skills });
     console.log(response);
     res.json(response.data);
   } catch (err) {
