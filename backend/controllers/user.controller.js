@@ -84,16 +84,18 @@ export const login = async (req, res) => {
             fullname: user.fullname,
             email: user.email,
             phoneNumber: user.phoneNumber,
-            role: user.role, // role is still returned to frontend
+            role: user.role,
             profile: user.profile
         };
 
+        // ✅ Critical: Use SameSite=None + Secure for cross-origin cookies (Netlify + Render)
         return res
             .status(200)
             .cookie("token", token, {
-                maxAge: 1 * 24 * 60 * 60 * 1000,
+                maxAge: 24 * 60 * 60 * 1000, // 1 day
                 httpOnly: true,
-                sameSite: 'strict'
+                secure: true,         // ✅ REQUIRED on HTTPS (Render)
+                sameSite: "None",     // ✅ REQUIRED for cross-site (Netlify)
             })
             .json({
                 message: `Welcome back ${user.fullname}`,
@@ -108,6 +110,7 @@ export const login = async (req, res) => {
         });
     }
 };
+
 
 export const logout = async (req, res) => {
     try {
