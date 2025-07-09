@@ -6,15 +6,11 @@ import os
 app = Flask(__name__)
 
 # ✅ Allow both deployed frontend and local development
-CORS(app, resources={
-    r"/predict": {
-        "origins": [
-            "https://jobportal-offical.netlify.app",
-            "http://localhost:5000",
-            "http://localhost:5173"  # Common for Vite
-        ]
-    }
-})
+CORS(app, origins=[
+    "http://localhost:3000",
+    "http://localhost:5173",
+    "https://jobportal-offical.netlify.app"
+])
 
 # Load ML models
 try:
