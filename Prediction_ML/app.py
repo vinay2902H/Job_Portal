@@ -4,7 +4,9 @@ import joblib
 import os
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all domains by default
+
+# ✅ Allow only your frontend domain for security
+CORS(app, resources={r"/predict": {"origins": "https://jobportal-offical.netlify.app"}})
 
 # Load ML models
 try:
@@ -19,7 +21,7 @@ except Exception as e:
 def home():
     return jsonify({"message": "Career Path Predictor Backend Running ✅"}), 200
 
-@app.route("/predict", methods=["POST"])
+@app.route("/predict", methods=["POST", "OPTIONS"])  # ✅ Handle preflight too
 def predict():
     try:
         data = request.get_json()
@@ -56,6 +58,5 @@ def predict():
         return jsonify({"error": "Something went wrong on the server"}), 500
 
 if __name__ == "__main__":
-    # Bind to environment PORT (used by Render), fallback to 5000
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=True)
