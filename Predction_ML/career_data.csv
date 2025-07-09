@@ -1,0 +1,1001 @@
+current_role,skills,experience_years,next_role,salary
+Junior Developer,"HTML, C++",3.2,Software Engineer,589513
+UX Designer,"Azure, Scrum, Cypress",3.6,Product Designer,556558
+QA Engineer,"SQL, Azure, Docker, Linux, Pandas",4.5,QA Lead,960392
+Fresher,"Kubernetes, Python, Agile",0.5,Frontend Developer,255970
+Frontend Developer,"Azure, JavaScript",2.4,UI Engineer,608064
+Cloud Engineer,"Git, Excel, SQL, TensorFlow",5.0,Cloud Architect,664200
+Frontend Developer,"Photoshop, JavaScript, Java, React",2.1,UI Engineer,591503
+Cloud Engineer,"PowerBI, React, AWS",4.4,DevOps Lead,577269
+Frontend Developer,"Excel, TensorFlow, HTML",2.4,UI Engineer,442767
+Frontend Developer,"PyTorch, MongoDB",2.6,Full Stack Developer,651053
+DevOps Engineer,"PowerBI, Selenium, Excel, AWS, Django",3.6,Cloud Engineer,776183
+Machine Learning Engineer,"Linux, CSS, Django, Pandas",2.0,AI Engineer,485142
+Product Manager,"React, Java",4.7,Director of Product,692090
+UI Designer,"Django, TensorFlow, SQL, Kubernetes",3.4,UX Designer,539660
+Database Admin,"Agile, Azure, Docker",0.2,Senior DBA,230579
+Full Stack Developer,"Kubernetes, Photoshop, Django",4.2,Tech Lead,758390
+Product Manager,"MongoDB, Pandas",2.3,Senior Product Manager,522124
+Backend Developer,"Excel, HTML, Agile, React",4.0,Full Stack Developer,791624
+Junior Developer,"Git, PyTorch",3.4,Software Engineer,847353
+Software Engineer,"Flask, Java, JavaScript, Pandas",2.8,Senior Software Engineer,632737
+Cybersecurity Analyst,"TensorFlow, Python, CSS",4.0,Cybersecurity Lead,570824
+Cloud Engineer,"Node.js, PyTorch, React, Agile, Git",0.2,Cloud Architect,227958
+Junior Developer,"Photoshop, Pandas",1.3,Software Engineer,387951
+Software Engineer,"Python, Docker, AWS, Kubernetes, Django",0.2,Senior Software Engineer,216671
+UI Designer,"Agile, HTML",3.8,UX Designer,594683
+Database Admin,"Flask, Python",3.5,Data Engineer,522007
+QA Engineer,"Azure, PowerBI, Figma, Linux, Scrum",3.7,Test Engineer,596691
+Full Stack Developer,"TensorFlow, Figma",1.3,Senior Full Stack Developer,329511
+AI Engineer,"AWS, PyTorch",4.5,Tech Lead,661727
+Database Admin,"Linux, Node.js, AWS, Django, Pandas",3.8,Data Engineer,666351
+Backend Developer,"Cypress, Figma",3.9,Software Engineer,514449
+AI Engineer,"CSS, MongoDB, PowerBI",2.4,Tech Lead,632324
+Junior Developer,"AWS, Figma, NLP, Photoshop",4.0,Frontend Developer,982200
+Intern,"Selenium, Kubernetes, AWS, Figma, Docker",0.9,QA Engineer,292277
+Cloud Engineer,"Docker, Git, HTML, Cypress",4.0,Cloud Architect,689760
+Software Engineer,"CSS, Git, JavaScript",3.4,Tech Lead,841121
+Cybersecurity Analyst,"Agile, Kubernetes, NLP, AWS",0.8,Security Engineer,322707
+UI Designer,"SQL, React",3.6,UX Designer,636348
+Cloud Engineer,"Cypress, NLP, TensorFlow, HTML, Agile",3.2,DevOps Lead,481424
+Software Engineer,"MongoDB, Kubernetes, Django, SQL, Figma",3.2,Tech Lead,590947
+Machine Learning Engineer,"SQL, MongoDB",3.6,Data Scientist,703593
+Database Admin,"PowerBI, Excel, Figma, Kubernetes",0.7,Data Engineer,294514
+Intern,"Linux, Azure, Flask, Kubernetes, Figma",1.7,QA Engineer,352112
+UX Designer,"C++, NLP, CSS, Excel",0.6,Design Lead,264977
+AI Engineer,"Scrum, PyTorch, AWS",0.1,Tech Lead,216351
+Intern,"Java, Django, Excel, Figma",2.2,UI Designer,542031
+UI Designer,"Java, Python, JavaScript, Scrum",2.9,UX Designer,675498
+Fresher,"Azure, Django",0.4,Intern,255199
+Junior Developer,"Pandas, Excel",1.5,Software Engineer,410291
+Business Analyst,"Flask, C++",4.1,Product Owner,822888
+Cloud Engineer,"Pandas, Photoshop",1.1,Cloud Architect,340672
+Frontend Developer,"PyTorch, Photoshop, React",0.5,UI Engineer,242137
+Data Analyst,"Photoshop, Agile, AWS",0.3,BI Analyst,255133
+Intern,"Selenium, AWS",0.0,UI Designer,200000
+Data Analyst,"Flask, Excel, TensorFlow, Docker",2.9,BI Analyst,753250
+UX Designer,"TensorFlow, Azure, Java, AWS, HTML",1.7,Product Designer,339456
+Backend Developer,"HTML, C++, Django",1.4,Full Stack Developer,447927
+Business Analyst,"PowerBI, MongoDB, Pandas, Figma",0.6,Product Manager,268280
+HR Executive,"Git, Photoshop, Agile, NLP",0.7,HR Manager,328216
+Machine Learning Engineer,"Flask, Docker, TensorFlow, Node.js, Photoshop",4.1,Data Scientist,827185
+Cloud Engineer,"Docker, Azure, Figma",3.1,DevOps Lead,773934
+Data Analyst,"Azure, Git, C++, Agile",0.8,BI Analyst,304412
+Product Manager,"React, C++",0.1,Senior Product Manager,208752
+Intern,"Python, Figma, CSS",3.8,Junior Developer,782304
+Full Stack Developer,"Figma, JavaScript, Cypress",1.6,Senior Full Stack Developer,396979
+Cybersecurity Analyst,"Python, PowerBI, MongoDB, JavaScript, Pandas",0.8,Cybersecurity Lead,298884
+HR Executive,"Flask, Selenium, PyTorch, Django",2.5,HR Manager,666252
+Backend Developer,"Java, Figma, Flask, Kubernetes",0.0,Full Stack Developer,200000
+UI Designer,"HTML, Django, NLP, Cypress, Kubernetes",0.1,UI/UX Lead,209511
+QA Engineer,"Photoshop, MongoDB, PowerBI",4.0,Test Engineer,731632
+Frontend Developer,"AWS, C++",2.9,Full Stack Developer,678459
+Intern,"Cypress, Linux",3.6,Junior Developer,749352
+UX Designer,"MongoDB, Cypress, NLP, Selenium, Scrum",3.1,Product Designer,686814
+Product Manager,"C++, Selenium",0.2,Senior Product Manager,216770
+Machine Learning Engineer,"JavaScript, Node.js, Docker",1.1,AI Engineer,316650
+Cybersecurity Analyst,"Python, Pandas, C++, Flask",0.5,Security Engineer,250640
+UX Designer,"Figma, Python",0.7,Product Designer,263535
+Software Engineer,"C++, Flask, TensorFlow, Git, PyTorch",2.2,Senior Software Engineer,570939
+Backend Developer,"Cypress, Django, Azure, Agile, Pandas",4.6,Software Engineer,587048
+Frontend Developer,"Docker, Python, Figma, Java, JavaScript",3.8,Full Stack Developer,534286
+Fresher,"Excel, Figma",2.3,QA Intern,459840
+Product Manager,"Java, Azure",4.4,Director of Product,954630
+HR Executive,"Scrum, Selenium",1.0,People Operations Lead,291697
+Fresher,"Java, Figma, JavaScript, CSS, Agile",2.3,Intern,559929
+Cybersecurity Analyst,"Linux, HTML, Photoshop, PowerBI",1.1,Cybersecurity Lead,349523
+UI Designer,"JavaScript, Selenium, AWS, HTML, PowerBI",4.7,UX Designer,1086255
+Cybersecurity Analyst,"Flask, Excel, NLP",0.6,Security Engineer,309801
+QA Engineer,"Flask, Django, Figma, React, NLP",3.2,QA Lead,456048
+Business Analyst,"C++, NLP, TensorFlow, Docker",1.0,Product Owner,375138
+Database Admin,"Flask, Kubernetes, Photoshop",1.7,Senior DBA,478929
+HR Executive,"PyTorch, Git, PowerBI, Node.js",1.2,HR Manager,370478
+Full Stack Developer,"TensorFlow, HTML",2.2,Tech Lead,501743
+Full Stack Developer,"JavaScript, Linux, MongoDB",3.6,Senior Full Stack Developer,749759
+Business Analyst,"NLP, AWS, Azure, TensorFlow, Node.js",4.8,Product Manager,1033611
+Software Engineer,"Cypress, React, Docker",3.9,Tech Lead,773974
+Junior Developer,"NLP, Selenium, Cypress",3.1,Frontend Developer,454773
+Software Engineer,"Python, C++",4.7,Senior Software Engineer,678126
+Full Stack Developer,"Agile, Java, React, CSS, AWS",0.6,Senior Full Stack Developer,317967
+Cybersecurity Analyst,"Azure, Scrum",0.9,Cybersecurity Lead,360286
+HR Executive,"SQL, Node.js, Java, Photoshop, CSS",4.2,People Operations Lead,579541
+Business Analyst,"Django, Kubernetes",3.1,Product Manager,458431
+UI Designer,"Linux, Docker, Flask, Python, Kubernetes",3.6,UI/UX Lead,544638
+Product Manager,"Git, TensorFlow, Python",3.7,Director of Product,692599
+Product Manager,"PyTorch, Azure, SQL, Django",2.4,Director of Product,451220
+DevOps Engineer,"Python, PyTorch",3.9,Cloud Engineer,754474
+DevOps Engineer,"Django, SQL, Linux, Photoshop, Azure",2.7,Site Reliability Engineer,676417
+QA Engineer,"CSS, Flask, Figma, C++, Selenium",3.2,QA Lead,788361
+UI Designer,"Figma, React, Azure, HTML",4.9,UX Designer,680396
+HR Executive,"MongoDB, Agile",4.0,People Operations Lead,584100
+Junior Developer,"HTML, CSS, SQL, Figma",1.8,Software Engineer,420546
+Backend Developer,"Flask, Photoshop, React, Pandas",3.4,Full Stack Developer,640619
+Full Stack Developer,"Java, TensorFlow, Kubernetes, Git, Agile",1.7,Senior Full Stack Developer,397791
+Data Analyst,"PyTorch, AWS",3.9,BI Analyst,560161
+Intern,"MongoDB, Java, PyTorch, Photoshop, Agile",2.0,QA Engineer,551778
+UI Designer,"Java, Agile",2.7,UI/UX Lead,544622
+Fresher,"Java, PyTorch, MongoDB",4.6,Junior Developer,784756
+UI Designer,"C++, Linux",4.8,UX Designer,855656
+Business Analyst,"Python, SQL",4.2,Product Owner,609038
+UI Designer,"Java, Django, CSS, SQL",2.6,UX Designer,542901
+Fresher,"Node.js, Figma, PyTorch, HTML",4.7,QA Intern,906175
+Product Manager,"Java, PyTorch, Python",2.8,Senior Product Manager,672917
+Full Stack Developer,"Node.js, Django, Cypress, Flask",0.5,Tech Lead,251840
+Full Stack Developer,"Cypress, Azure, HTML, C++, PyTorch",2.5,Tech Lead,655857
+Intern,"Cypress, Linux, Node.js, React, AWS",4.3,UI Designer,629195
+Backend Developer,"Node.js, Kubernetes, Java",3.7,Software Engineer,792014
+Product Manager,"Selenium, Agile, PowerBI, Django, Figma",2.5,Senior Product Manager,477252
+Machine Learning Engineer,"MongoDB, Django, TensorFlow",1.0,AI Engineer,343981
+Cybersecurity Analyst,"PyTorch, Python, Photoshop",4.6,Cybersecurity Lead,902144
+Cybersecurity Analyst,"Git, Agile, Photoshop, Azure, Django",1.0,Security Engineer,366275
+Business Analyst,"Azure, React, Photoshop, PyTorch, JavaScript",1.1,Product Owner,343422
+HR Executive,"PyTorch, Docker",0.1,People Operations Lead,219302
+Product Manager,"Excel, PowerBI, Git, Node.js",0.3,Director of Product,243821
+Full Stack Developer,"Figma, Python",2.1,Senior Full Stack Developer,368777
+QA Engineer,"NLP, Cypress, React, Flask, PowerBI",2.0,Test Engineer,417750
+Product Manager,"Node.js, Kubernetes, Figma",3.9,Senior Product Manager,681439
+Cloud Engineer,"C++, Python, NLP, React, Linux",2.9,Cloud Architect,570965
+Backend Developer,"C++, MongoDB",2.3,Full Stack Developer,434859
+Fresher,"Kubernetes, CSS",2.5,QA Intern,415787
+UI Designer,"Excel, JavaScript",3.8,UX Designer,519542
+Business Analyst,"SQL, Docker, Agile, React",0.4,Product Manager,233804
+AI Engineer,"PyTorch, Cypress, TensorFlow",1.9,AI Architect,361334
+Product Manager,"Docker, Linux, CSS, PyTorch, Pandas",1.6,Senior Product Manager,425920
+Machine Learning Engineer,"Kubernetes, JavaScript",2.7,AI Engineer,531319
+Intern,"Docker, JavaScript",4.4,Junior Developer,781442
+Cybersecurity Analyst,"Kubernetes, Scrum",2.0,Cybersecurity Lead,363192
+Full Stack Developer,"Linux, HTML, Flask",0.9,Senior Full Stack Developer,346315
+Software Engineer,"Git, Flask, CSS, Java",3.0,Tech Lead,719306
+Product Manager,"PowerBI, SQL, Java, JavaScript, Node.js",1.2,Senior Product Manager,404817
+Junior Developer,"HTML, Java",4.8,Frontend Developer,842211
+Cloud Engineer,"Photoshop, MongoDB, Java, React",3.4,DevOps Lead,793561
+Data Analyst,"Pandas, Python, Figma, Photoshop, Azure",4.9,BI Analyst,594822
+Database Admin,"Scrum, AWS, Pandas",2.5,Data Engineer,494535
+Frontend Developer,"Pandas, Scrum",1.4,UI Engineer,434801
+Software Engineer,"Flask, Kubernetes",4.1,Tech Lead,905146
+Data Analyst,"React, Docker, Photoshop",1.8,Data Scientist,449868
+Machine Learning Engineer,"Kubernetes, SQL, Linux, AWS",2.6,AI Engineer,707507
+Intern,"Scrum, HTML, Pandas, CSS",3.7,UI Designer,880892
+DevOps Engineer,"Figma, JavaScript, Docker, Flask, C++",2.7,Cloud Engineer,554809
+Junior Developer,"Azure, Linux, NLP",2.3,Frontend Developer,599999
+Backend Developer,"JavaScript, C++, Python, Node.js, CSS",1.6,Full Stack Developer,490892
+Business Analyst,"Java, Django",4.1,Product Owner,675132
+DevOps Engineer,"C++, Linux, TensorFlow, Selenium, React",4.3,Cloud Engineer,926257
+Intern,"Java, Node.js",2.3,UI Designer,441932
+Database Admin,"CSS, Pandas, AWS",3.4,Senior DBA,744737
+Machine Learning Engineer,"MongoDB, Django",4.8,Data Scientist,687137
+Frontend Developer,"Excel, Cypress, C++, Python, Kubernetes",4.5,UI Engineer,998264
+QA Engineer,"Photoshop, Python",1.7,QA Lead,431176
+Data Analyst,"HTML, PyTorch, TensorFlow, SQL, Selenium",2.2,Data Scientist,520630
+Machine Learning Engineer,"Python, HTML, Java, C++",4.6,Data Scientist,805079
+Machine Learning Engineer,"JavaScript, NLP, AWS, Agile, Django",4.5,AI Engineer,682436
+Fresher,"PyTorch, Linux, Photoshop, MongoDB, HTML",1.2,Intern,407921
+Data Analyst,"SQL, NLP",3.6,Data Scientist,635769
+DevOps Engineer,"Scrum, NLP, MongoDB, SQL",0.5,Site Reliability Engineer,246737
+Business Analyst,"Pandas, Kubernetes, Flask",4.3,Product Owner,730405
+QA Engineer,"CSS, Photoshop, Agile, Docker",2.4,QA Lead,617847
+Machine Learning Engineer,"C++, Docker, React, Flask, Node.js",4.7,AI Engineer,842654
+HR Executive,"Flask, SQL",1.1,People Operations Lead,333755
+Machine Learning Engineer,"React, AWS",2.3,AI Engineer,385830
+Machine Learning Engineer,"TensorFlow, Cypress, Flask, Agile, Azure",2.2,AI Engineer,478073
+HR Executive,"Agile, Python, Figma, SQL, CSS",2.1,People Operations Lead,524433
+Software Engineer,"PyTorch, Cypress, Excel",3.9,Senior Software Engineer,957251
+Software Engineer,"PowerBI, Excel, CSS",2.0,Tech Lead,537888
+DevOps Engineer,"Node.js, SQL",2.1,Site Reliability Engineer,447300
+UI Designer,"HTML, MongoDB, Excel, Selenium",0.0,UI/UX Lead,200000
+Cloud Engineer,"NLP, Excel, AWS, Linux",1.9,DevOps Lead,488051
+Database Admin,"React, Kubernetes, Django, Photoshop",3.5,Data Engineer,492558
+Junior Developer,"Cypress, HTML, Azure, Docker, Photoshop",1.6,Frontend Developer,337531
+DevOps Engineer,"Selenium, C++, Docker, TensorFlow, Node.js",2.0,Site Reliability Engineer,511316
+UX Designer,"SQL, Pandas",2.9,Product Designer,464442
+HR Executive,"Django, Linux, Pandas, Python",3.8,HR Manager,677648
+Database Admin,"NLP, Linux",4.8,Data Engineer,872124
+DevOps Engineer,"Excel, Scrum, React",3.2,Site Reliability Engineer,507404
+UI Designer,"React, TensorFlow, Excel, Pandas, Flask",0.0,UI/UX Lead,200000
+HR Executive,"Linux, Photoshop",4.4,HR Manager,790246
+QA Engineer,"Kubernetes, CSS, Figma, React",0.3,QA Lead,228536
+Frontend Developer,"Node.js, CSS, JavaScript, TensorFlow, Pandas",1.7,UI Engineer,339165
+Machine Learning Engineer,"Excel, Scrum, TensorFlow",2.4,Data Scientist,546072
+Intern,"PyTorch, HTML, Linux",3.6,UI Designer,747250
+Intern,"C++, Scrum, Agile, HTML",1.9,UI Designer,432753
+DevOps Engineer,"Django, Docker",1.2,Site Reliability Engineer,370401
+Business Analyst,"PyTorch, CSS, Linux",3.6,Product Manager,888248
+QA Engineer,"Selenium, TensorFlow, AWS, Git",1.1,QA Lead,306263
+Cybersecurity Analyst,"Pandas, Docker",0.1,Security Engineer,216972
+UI Designer,"Linux, JavaScript, Git",3.8,UI/UX Lead,700756
+Data Analyst,"Scrum, Python, Django, Agile, C++",4.6,Data Scientist,587706
+UI Designer,"Excel, Java, SQL",1.7,UI/UX Lead,476595
+Business Analyst,"Agile, Figma",1.0,Product Owner,306226
+UI Designer,"TensorFlow, Docker, PyTorch, Selenium",3.1,UI/UX Lead,634012
+Backend Developer,"Excel, CSS",2.5,Full Stack Developer,629920
+Intern,"NLP, JavaScript, Java",1.4,Junior Developer,336481
+Data Analyst,"C++, Python",0.6,Data Scientist,279407
+Software Engineer,"Figma, Scrum, Java, CSS",2.7,Senior Software Engineer,468296
+Product Manager,"Pandas, Agile, Flask, NLP",4.5,Director of Product,676140
+Intern,"React, CSS",3.7,QA Engineer,667428
+Fresher,"Agile, Excel, Flask, Django",4.7,Junior Developer,644681
+Backend Developer,"Figma, AWS, Kubernetes, PyTorch, Git",2.6,Full Stack Developer,411013
+DevOps Engineer,"Linux, CSS, Agile, PyTorch",2.6,Site Reliability Engineer,556374
+Full Stack Developer,"NLP, Python, TensorFlow, CSS, Excel",5.0,Senior Full Stack Developer,616880
+QA Engineer,"JavaScript, NLP, PowerBI, Scrum, Flask",2.1,Test Engineer,379466
+Cybersecurity Analyst,"React, Pandas, Cypress, JavaScript, Photoshop",2.7,Cybersecurity Lead,627067
+Full Stack Developer,"Agile, C++",2.0,Senior Full Stack Developer,495520
+Cybersecurity Analyst,"Docker, AWS",0.2,Security Engineer,234466
+Product Manager,"Pandas, Node.js, Excel, Figma",0.3,Director of Product,240769
+Business Analyst,"MongoDB, Node.js",3.4,Product Manager,552930
+QA Engineer,"CSS, Django, PowerBI",2.8,Test Engineer,685959
+Business Analyst,"JavaScript, Cypress, Photoshop",1.1,Product Owner,371653
+DevOps Engineer,"NLP, SQL, PowerBI, TensorFlow, PyTorch",3.9,Site Reliability Engineer,557403
+UI Designer,"Cypress, Kubernetes",1.3,UX Designer,394272
+HR Executive,"JavaScript, MongoDB",1.5,People Operations Lead,401915
+Cybersecurity Analyst,"Photoshop, SQL, AWS, Excel",3.3,Cybersecurity Lead,807002
+UI Designer,"Git, Kubernetes, MongoDB, TensorFlow",0.7,UX Designer,327184
+Full Stack Developer,"PowerBI, Flask, Excel",4.3,Tech Lead,790080
+HR Executive,"TensorFlow, Scrum, PowerBI, Python, C++",4.4,People Operations Lead,894817
+Data Analyst,"PyTorch, SQL, React",0.6,BI Analyst,263881
+Frontend Developer,"C++, PowerBI, Scrum, HTML, Selenium",2.6,Full Stack Developer,453549
+Cybersecurity Analyst,"Linux, Scrum",4.6,Security Engineer,1063613
+Software Engineer,"AWS, MongoDB",1.0,Tech Lead,343867
+Fresher,"Excel, Linux",4.1,Frontend Developer,576326
+Cybersecurity Analyst,"PowerBI, Flask, Pandas, Kubernetes",4.5,Security Engineer,1007435
+UI Designer,"Docker, NLP, Figma, AWS, Agile",3.5,UI/UX Lead,833710
+Full Stack Developer,"AWS, C++",2.9,Senior Full Stack Developer,705861
+Backend Developer,"PowerBI, Figma",2.6,Software Engineer,603143
+Cybersecurity Analyst,"Docker, CSS, Linux, Python, Cypress",2.0,Security Engineer,492850
+QA Engineer,"CSS, HTML, Scrum, AWS",2.4,Test Engineer,577205
+QA Engineer,"Pandas, C++, Java",2.6,QA Lead,471260
+HR Executive,"Linux, Excel, NLP, Django",0.5,HR Manager,242942
+Database Admin,"MongoDB, Figma, Kubernetes, Azure",2.5,Senior DBA,494237
+Database Admin,"Agile, Excel",0.2,Data Engineer,220932
+Database Admin,"C++, PyTorch, Kubernetes, Django",0.5,Senior DBA,241974
+Product Manager,"SQL, Node.js",1.3,Senior Product Manager,422735
+Full Stack Developer,"Selenium, Pandas",3.4,Senior Full Stack Developer,753469
+UI Designer,"MongoDB, Cypress, Azure, JavaScript",0.2,UX Designer,233278
+Backend Developer,"PyTorch, Azure, Cypress",3.3,Software Engineer,501692
+Fresher,"Selenium, JavaScript",0.2,Junior Developer,219352
+Fresher,"Scrum, PyTorch, Kubernetes, Python",3.3,Junior Developer,757733
+Backend Developer,"Scrum, Flask, CSS, NLP, Python",0.8,Full Stack Developer,343017
+Cloud Engineer,"AWS, TensorFlow, MongoDB",2.1,DevOps Lead,451099
+Junior Developer,"SQL, Kubernetes, Azure",0.0,Frontend Developer,200000
+Intern,"Docker, HTML, TensorFlow, Linux, CSS",0.1,UI Designer,213279
+UI Designer,"NLP, Kubernetes, Selenium, Python, Pandas",3.3,UI/UX Lead,503801
+Data Analyst,"Git, TensorFlow, React",3.2,Data Scientist,700732
+Database Admin,"Excel, Git, Photoshop",4.2,Data Engineer,733009
+QA Engineer,"PowerBI, Django, Azure",4.8,QA Lead,973160
+Frontend Developer,"JavaScript, TensorFlow, NLP, Kubernetes, Git",2.7,UI Engineer,726246
+Product Manager,"Java, AWS, Docker, JavaScript, PyTorch",0.9,Senior Product Manager,350065
+DevOps Engineer,"Pandas, NLP, Scrum, CSS",1.9,Cloud Engineer,575808
+Business Analyst,"Flask, Selenium, C++",0.1,Product Owner,219653
+Frontend Developer,"Azure, Scrum",3.4,UI Engineer,830533
+Cloud Engineer,"AWS, PyTorch",2.5,Cloud Architect,455927
+Software Engineer,"Agile, PyTorch, Git, JavaScript",1.0,Senior Software Engineer,308413
+Database Admin,"MongoDB, Excel, NLP, Git, Java",4.9,Senior DBA,1141358
+Database Admin,"Photoshop, Cypress, C++",1.4,Senior DBA,358312
+Frontend Developer,"Agile, Python, Photoshop, PowerBI, PyTorch",0.8,Full Stack Developer,293030
+Cybersecurity Analyst,"PowerBI, Flask, HTML, Scrum",0.5,Cybersecurity Lead,294360
+Intern,"Git, Pandas",3.7,UI Designer,717282
+Software Engineer,"C++, CSS, Figma, NLP, React",1.2,Tech Lead,399201
+Backend Developer,"Scrum, Excel, TensorFlow, C++",1.8,Software Engineer,354168
+Fresher,"HTML, MongoDB, SQL, Java, Flask",2.4,Junior Developer,679426
+Software Engineer,"Java, Django",2.5,Tech Lead,572497
+Intern,"NLP, PyTorch",1.7,QA Engineer,418781
+Data Analyst,"C++, Photoshop, AWS, Django",3.2,BI Analyst,484032
+Product Manager,"CSS, Selenium, JavaScript, Pandas, TensorFlow",4.1,Director of Product,762499
+Full Stack Developer,"PowerBI, SQL, Kubernetes, Scrum, Photoshop",2.1,Senior Full Stack Developer,412740
+Fresher,"Cypress, Agile, Excel, CSS, Django",4.1,Frontend Developer,618134
+HR Executive,"Java, JavaScript, React, Flask",2.8,HR Manager,513409
+Data Analyst,"Kubernetes, TensorFlow, CSS, Node.js",0.2,BI Analyst,220258
+Software Engineer,"Cypress, JavaScript, PowerBI, C++, Git",1.9,Tech Lead,474204
+Intern,"CSS, Agile, Django, Cypress",0.5,Junior Developer,264499
+Data Analyst,"Selenium, React, JavaScript, Flask, TensorFlow",3.9,Data Scientist,588475
+Software Engineer,"Scrum, JavaScript, MongoDB, Agile, Azure",2.5,Senior Software Engineer,637370
+HR Executive,"HTML, AWS, TensorFlow, PyTorch, Python",4.4,People Operations Lead,946046
+Business Analyst,"Docker, Kubernetes",0.5,Product Owner,284422
+Database Admin,"PyTorch, TensorFlow, HTML",0.3,Senior DBA,238861
+Cybersecurity Analyst,"Scrum, Python, Cypress, React, Selenium",3.8,Security Engineer,660373
+AI Engineer,"React, Java, PyTorch",2.8,Tech Lead,631681
+QA Engineer,"MongoDB, React, Agile, PyTorch, AWS",4.0,QA Lead,712000
+Machine Learning Engineer,"React, Node.js, Django, PowerBI, Azure",0.9,AI Engineer,377427
+UI Designer,"PyTorch, PowerBI",0.2,UI/UX Lead,231918
+Full Stack Developer,"Azure, AWS, Kubernetes, React",1.7,Senior Full Stack Developer,367903
+Machine Learning Engineer,"Cypress, NLP",1.4,Data Scientist,335227
+Cybersecurity Analyst,"C++, Docker, Kubernetes",3.2,Cybersecurity Lead,581177
+Cloud Engineer,"CSS, Pandas",1.6,Cloud Architect,433496
+UI Designer,"Node.js, Python, Django, Selenium",0.2,UI/UX Lead,229100
+HR Executive,"CSS, SQL",3.3,HR Manager,566573
+Database Admin,"HTML, JavaScript, Selenium, Figma",2.2,Data Engineer,490149
+Cybersecurity Analyst,"Kubernetes, Agile, Scrum, SQL",0.8,Security Engineer,350514
+Software Engineer,"Scrum, PyTorch, Cypress, Linux, Excel",0.9,Tech Lead,275975
+AI Engineer,"Figma, Docker, C++, Scrum, Agile",4.1,Tech Lead,948053
+QA Engineer,"NLP, React, TensorFlow",4.6,QA Lead,775745
+Data Analyst,"Selenium, HTML, Flask",1.3,Data Scientist,440318
+Full Stack Developer,"JavaScript, Kubernetes, Excel, C++",3.7,Tech Lead,884810
+AI Engineer,"Cypress, React, Django",3.3,AI Architect,596092
+Frontend Developer,"Python, React",4.2,Full Stack Developer,831978
+Software Engineer,"React, Photoshop, HTML, Figma, Node.js",3.9,Senior Software Engineer,860141
+Database Admin,"Java, Excel, HTML, Docker, C++",2.1,Senior DBA,480990
+DevOps Engineer,"PowerBI, Python, Excel",3.2,Cloud Engineer,479356
+Junior Developer,"Selenium, Java, Agile, NLP, Photoshop",1.1,Frontend Developer,334855
+UI Designer,"Java, Agile, Django",4.3,UX Designer,772901
+AI Engineer,"Selenium, Cypress, SQL, Pandas",2.7,Tech Lead,447433
+Business Analyst,"Agile, PyTorch, JavaScript, Figma, HTML",2.4,Product Owner,575499
+Intern,"Docker, Cypress, Agile, Flask, Django",0.2,QA Engineer,219207
+Machine Learning Engineer,"Docker, Node.js, Photoshop, Cypress, AWS",0.2,AI Engineer,221886
+HR Executive,"MongoDB, AWS, Excel, JavaScript",4.4,HR Manager,649526
+Product Manager,"Photoshop, PowerBI, React, Linux, Docker",3.7,Director of Product,823527
+Cybersecurity Analyst,"Flask, Django, Cypress",0.8,Security Engineer,293084
+Intern,"Azure, TensorFlow, SQL",0.0,Junior Developer,200000
+UI Designer,"Pandas, Flask, Agile, Excel",3.2,UX Designer,704668
+Junior Developer,"Cypress, Kubernetes, Python",2.2,Frontend Developer,495743
+Software Engineer,"Flask, PowerBI, NLP, Django",0.2,Tech Lead,221021
+Frontend Developer,"SQL, Photoshop, Node.js, Docker, Selenium",1.5,UI Engineer,461175
+AI Engineer,"Selenium, SQL, Kubernetes, Linux",4.5,AI Architect,600626
+Intern,"Photoshop, CSS, Java, Figma, NLP",2.0,QA Engineer,440744
+Fresher,"Flask, Azure, Photoshop",1.9,Intern,491342
+Database Admin,"Agile, SQL, C++",4.1,Data Engineer,609959
+Full Stack Developer,"Photoshop, Git, PowerBI, Java",4.0,Tech Lead,564088
+Machine Learning Engineer,"NLP, Selenium",2.7,AI Engineer,482174
+QA Engineer,"Django, PowerBI, SQL, Flask, React",1.8,Test Engineer,402887
+QA Engineer,"SQL, Excel, Kubernetes, Figma, PyTorch",3.6,QA Lead,656462
+QA Engineer,"Flask, Figma, Python, C++, Git",4.3,QA Lead,965404
+UX Designer,"Scrum, Figma",3.9,Product Designer,928169
+DevOps Engineer,"Django, Selenium, SQL, Figma, Flask",2.2,Cloud Engineer,382567
+UX Designer,"Java, C++",1.7,Design Lead,391302
+Frontend Developer,"AWS, Docker, Scrum",1.5,UI Engineer,492308
+Machine Learning Engineer,"AWS, JavaScript, Photoshop, Figma",1.9,AI Engineer,504849
+Backend Developer,"Django, AWS",0.3,Software Engineer,238646
+UI Designer,"Selenium, PyTorch, Git, HTML",1.5,UI/UX Lead,423366
+UI Designer,"Pandas, PowerBI, Java, Python, Azure",0.4,UI/UX Lead,241475
+Junior Developer,"React, TensorFlow",4.6,Software Engineer,911371
+Intern,"Python, AWS, Node.js",3.3,UI Designer,493056
+Backend Developer,"PowerBI, Pandas, Photoshop",1.5,Full Stack Developer,396450
+UX Designer,"Git, PyTorch, TensorFlow, Linux",2.7,Product Designer,681291
+Cybersecurity Analyst,"Scrum, Django",4.6,Cybersecurity Lead,730743
+Frontend Developer,"Python, CSS, Django",1.8,UI Engineer,490914
+DevOps Engineer,"Docker, Excel",0.6,Cloud Engineer,252090
+Business Analyst,"Node.js, HTML, C++, SQL, Photoshop",1.0,Product Manager,396604
+Backend Developer,"Python, Java",5.0,Full Stack Developer,697860
+Software Engineer,"Flask, Pandas, Excel",1.6,Tech Lead,348668
+Database Admin,"NLP, TensorFlow, Java, Scrum, Kubernetes",1.3,Data Engineer,448358
+Business Analyst,"Azure, Pandas, SQL, NLP",4.3,Product Owner,779386
+Full Stack Developer,"Scrum, SQL, JavaScript",2.4,Tech Lead,601203
+Fresher,"MongoDB, Pandas, PowerBI, HTML, AWS",4.4,Frontend Developer,945201
+Cloud Engineer,"Python, Kubernetes, Django, Pandas",3.8,DevOps Lead,611289
+QA Engineer,"Scrum, SQL, HTML",1.8,Test Engineer,467687
+Fresher,"Flask, Excel, Agile, JavaScript, Pandas",1.7,Frontend Developer,407581
+Cybersecurity Analyst,"C++, Cypress",0.9,Security Engineer,295171
+Software Engineer,"Docker, CSS, Photoshop, SQL, PyTorch",2.9,Senior Software Engineer,658455
+DevOps Engineer,"JavaScript, Node.js, Docker",0.8,Site Reliability Engineer,357827
+Cloud Engineer,"Linux, Azure, Pandas, Kubernetes",3.5,Cloud Architect,778809
+Cloud Engineer,"Docker, Excel, Selenium, Scrum, AWS",3.1,DevOps Lead,694031
+Intern,"Linux, MongoDB, AWS, Photoshop",0.5,QA Engineer,280931
+DevOps Engineer,"Figma, JavaScript, Kubernetes, Django",2.1,Cloud Engineer,443807
+AI Engineer,"Excel, Java, Python, JavaScript, PyTorch",0.2,AI Architect,236105
+Full Stack Developer,"React, Kubernetes",3.4,Senior Full Stack Developer,555198
+Business Analyst,"NLP, Azure",0.9,Product Manager,312578
+Intern,"HTML, Figma, SQL",0.6,Junior Developer,290640
+Software Engineer,"TensorFlow, Git",2.7,Senior Software Engineer,541933
+UI Designer,"Node.js, Java, Agile, Flask, CSS",2.2,UX Designer,486974
+Cybersecurity Analyst,"Cypress, NLP, Azure",2.8,Cybersecurity Lead,550397
+Product Manager,"React, Git, Excel, CSS, Flask",2.4,Director of Product,499925
+UI Designer,"SQL, C++",0.6,UX Designer,251016
+Database Admin,"Photoshop, AWS, SQL, Git",1.5,Senior DBA,382818
+HR Executive,"Photoshop, Flask, HTML",0.8,HR Manager,264843
+DevOps Engineer,"Photoshop, C++, Flask, Figma, TensorFlow",2.1,Site Reliability Engineer,540292
+DevOps Engineer,"HTML, Photoshop",2.3,Cloud Engineer,564786
+Data Analyst,"Java, React, Flask, Git",4.4,BI Analyst,823348
+Machine Learning Engineer,"PowerBI, CSS, Cypress",3.6,Data Scientist,865398
+Fresher,"Cypress, HTML, Kubernetes",4.7,Frontend Developer,984961
+Cybersecurity Analyst,"C++, MongoDB",0.4,Security Engineer,243239
+AI Engineer,"React, PowerBI, Selenium, Excel",2.8,AI Architect,748060
+AI Engineer,"AWS, NLP",3.6,Tech Lead,665584
+Software Engineer,"Selenium, SQL",3.3,Tech Lead,737055
+Software Engineer,"Node.js, Scrum, Agile, Photoshop",2.6,Senior Software Engineer,560469
+DevOps Engineer,"Docker, PowerBI, Photoshop",2.7,Cloud Engineer,474257
+UI Designer,"Git, SQL, Scrum, Linux, Python",1.0,UX Designer,371245
+DevOps Engineer,"HTML, C++, NLP",4.3,Cloud Engineer,724836
+Full Stack Developer,"Linux, Django, Photoshop",1.2,Tech Lead,315299
+QA Engineer,"Selenium, Java, HTML",3.5,Test Engineer,658703
+QA Engineer,"Figma, Node.js, Kubernetes",2.8,QA Lead,570812
+Business Analyst,"Excel, AWS, Azure",0.3,Product Manager,248656
+Backend Developer,"Scrum, Pandas",3.9,Full Stack Developer,583389
+Junior Developer,"Linux, Cypress, MongoDB, Agile, Azure",3.7,Frontend Developer,749975
+Junior Developer,"Selenium, HTML, PyTorch, Django",2.5,Frontend Developer,438167
+Software Engineer,"Scrum, C++, Figma",0.5,Tech Lead,257255
+DevOps Engineer,"Node.js, Selenium",2.1,Cloud Engineer,513742
+Business Analyst,"Python, Azure",1.8,Product Owner,440472
+Cloud Engineer,"Photoshop, Flask",0.5,Cloud Architect,286695
+Business Analyst,"JavaScript, MongoDB",2.0,Product Owner,374774
+Frontend Developer,"Linux, PyTorch, HTML, Photoshop",0.3,UI Engineer,232129
+Product Manager,"Cypress, Agile, Kubernetes, Docker, PyTorch",0.3,Senior Product Manager,226416
+Full Stack Developer,"Cypress, Kubernetes, PowerBI",2.8,Tech Lead,553466
+Fresher,"Figma, Flask",2.9,Frontend Developer,737425
+DevOps Engineer,"PowerBI, Flask",1.9,Cloud Engineer,440559
+Database Admin,"AWS, Azure",0.2,Data Engineer,234735
+Fresher,"Selenium, TensorFlow, PyTorch, HTML, Java",1.7,Junior Developer,462075
+QA Engineer,"Django, SQL, Linux, Cypress, Kubernetes",2.2,QA Lead,417503
+Backend Developer,"Azure, Django, Flask, PowerBI, NLP",2.1,Software Engineer,601118
+Cloud Engineer,"Django, Flask",1.5,DevOps Lead,476045
+HR Executive,"React, Agile, TensorFlow, Linux",4.3,People Operations Lead,657692
+Business Analyst,"Cypress, Python",0.1,Product Manager,214998
+Backend Developer,"Git, Azure, CSS",4.1,Full Stack Developer,771154
+Frontend Developer,"C++, Django",5.0,UI Engineer,902285
+Fresher,"Git, Selenium, NLP",4.5,Intern,804633
+HR Executive,"Scrum, CSS, Git",2.3,People Operations Lead,446201
+Machine Learning Engineer,"React, Excel, NLP, CSS",1.8,AI Engineer,422206
+Frontend Developer,"AWS, HTML",1.9,UI Engineer,471648
+DevOps Engineer,"Cypress, Excel, CSS, Pandas",4.9,Site Reliability Engineer,1040595
+UI Designer,"Agile, CSS, React, Linux",3.8,UI/UX Lead,697917
+UI Designer,"React, Selenium, Linux, Python",1.9,UI/UX Lead,363390
+Software Engineer,"TensorFlow, Azure, Agile, Flask",3.0,Tech Lead,776153
+Fresher,"React, AWS",1.1,QA Intern,342289
+Machine Learning Engineer,"JavaScript, Java, React, C++, TensorFlow",2.7,AI Engineer,721656
+Product Manager,"HTML, SQL, NLP, Python, Linux",4.4,Senior Product Manager,778397
+Cybersecurity Analyst,"PyTorch, Selenium",4.8,Cybersecurity Lead,949659
+Machine Learning Engineer,"Python, Azure, AWS, Java",1.0,Data Scientist,301384
+UI Designer,"PowerBI, Cypress, AWS, Git",4.5,UI/UX Lead,678696
+Full Stack Developer,"MongoDB, TensorFlow, Docker",2.4,Tech Lead,560031
+AI Engineer,"Selenium, SQL",2.9,Tech Lead,470320
+Full Stack Developer,"Git, NLP",3.1,Tech Lead,496753
+Data Analyst,"Cypress, Java, Pandas, Figma",1.2,BI Analyst,363116
+Backend Developer,"NLP, Flask, JavaScript, Azure",2.0,Software Engineer,423438
+Software Engineer,"HTML, SQL, Scrum, Flask, Azure",0.4,Senior Software Engineer,235733
+Frontend Developer,"Figma, Azure, HTML",4.4,UI Engineer,871070
+Backend Developer,"C++, Selenium",1.4,Software Engineer,352192
+Cybersecurity Analyst,"Linux, Node.js, PowerBI",2.8,Cybersecurity Lead,559710
+Database Admin,"C++, Java, Flask, Scrum, Excel",1.9,Data Engineer,412478
+UI Designer,"Linux, Selenium, Excel, SQL",4.9,UX Designer,840777
+Software Engineer,"Flask, JavaScript, Django, Selenium",0.4,Senior Software Engineer,249840
+Machine Learning Engineer,"PyTorch, SQL, Java",0.9,Data Scientist,300176
+DevOps Engineer,"Docker, Java",4.5,Site Reliability Engineer,811986
+Junior Developer,"AWS, C++, SQL",1.3,Software Engineer,392050
+UX Designer,"AWS, CSS, Python, Flask, Django",4.0,Design Lead,705464
+Full Stack Developer,"Docker, PowerBI, Java",1.1,Tech Lead,381920
+Business Analyst,"Azure, Node.js, CSS, AWS, Linux",1.0,Product Manager,368562
+UX Designer,"SQL, NLP, Kubernetes, Excel, HTML",0.2,Product Designer,222375
+Software Engineer,"SQL, Git, PyTorch",4.9,Tech Lead,746389
+Intern,"Figma, Scrum, Django",2.8,QA Engineer,442090
+Business Analyst,"Linux, Figma, Flask",4.6,Product Manager,770349
+Machine Learning Engineer,"Azure, Agile, Pandas, PyTorch",2.4,Data Scientist,457068
+Software Engineer,"Flask, CSS, TensorFlow",4.2,Tech Lead,922799
+Business Analyst,"Azure, Cypress, NLP, Photoshop",3.6,Product Manager,742257
+HR Executive,"MongoDB, PowerBI, React, Figma, AWS",0.5,People Operations Lead,298794
+Data Analyst,"Azure, NLP, Linux, C++, Figma",3.3,Data Scientist,847770
+QA Engineer,"C++, HTML, MongoDB, React, PowerBI",1.7,Test Engineer,531314
+Intern,"Photoshop, Python, HTML, Linux, PowerBI",4.6,QA Engineer,961833
+HR Executive,"PyTorch, C++, Figma",1.4,HR Manager,362712
+QA Engineer,"CSS, Git, SQL",3.2,QA Lead,632217
+QA Engineer,"Cypress, React, Python",2.0,Test Engineer,520822
+HR Executive,"Java, TensorFlow",2.2,HR Manager,468219
+Junior Developer,"CSS, HTML",1.6,Frontend Developer,485619
+Intern,"Java, Photoshop, Kubernetes, AWS",1.6,UI Designer,357907
+Junior Developer,"Excel, Node.js, React, Python, Flask",2.7,Software Engineer,577719
+UX Designer,"Scrum, PyTorch, AWS",4.2,Design Lead,687565
+Machine Learning Engineer,"Agile, AWS, Docker, CSS, Azure",4.7,AI Engineer,1080107
+Junior Developer,"CSS, TensorFlow, NLP, Flask",5.0,Software Engineer,926165
+Product Manager,"Git, Azure",3.6,Director of Product,812640
+UX Designer,"Pandas, Flask, Django, Java",0.3,Product Designer,247421
+Backend Developer,"Node.js, Azure, Cypress",3.4,Software Engineer,767840
+Product Manager,"MongoDB, Linux",3.9,Director of Product,877968
+Business Analyst,"Django, Photoshop, PowerBI, Azure, Kubernetes",2.8,Product Owner,435522
+Database Admin,"Git, HTML",1.1,Data Engineer,414222
+UI Designer,"Figma, React, PowerBI, Git, Linux",3.4,UI/UX Lead,674405
+Cloud Engineer,"SQL, Cypress, NLP",4.0,Cloud Architect,880744
+Product Manager,"Java, MongoDB, Photoshop, PowerBI",0.3,Director of Product,228233
+Machine Learning Engineer,"Cypress, JavaScript, Scrum, Flask, Azure",4.5,AI Engineer,663923
+Software Engineer,"Figma, Cypress, Linux, Selenium",4.3,Senior Software Engineer,849751
+Cloud Engineer,"Photoshop, Kubernetes",1.3,Cloud Architect,386669
+Backend Developer,"C++, Django",1.0,Software Engineer,308873
+Intern,"CSS, Selenium, Node.js, PowerBI, Linux",2.2,Junior Developer,531190
+UI Designer,"React, Pandas, Kubernetes, Cypress, Excel",0.7,UX Designer,295226
+Junior Developer,"PyTorch, CSS, Kubernetes, Django, Git",0.5,Software Engineer,273504
+Machine Learning Engineer,"Flask, C++, TensorFlow, Node.js",3.8,Data Scientist,733550
+UX Designer,"Django, CSS, Flask",2.4,Design Lead,503420
+HR Executive,"Agile, Java, Azure, Linux, PowerBI",3.0,People Operations Lead,581852
+DevOps Engineer,"JavaScript, NLP, C++",4.3,Cloud Engineer,601667
+Database Admin,"Figma, TensorFlow, Pandas, Cypress",2.9,Senior DBA,682734
+Frontend Developer,"Figma, SQL, Django, HTML, Node.js",4.0,Full Stack Developer,660564
+Cloud Engineer,"C++, TensorFlow",0.8,Cloud Architect,293572
+Junior Developer,"HTML, Scrum, AWS, Linux, Node.js",3.9,Frontend Developer,823824
+Business Analyst,"CSS, Pandas, Excel, Selenium",5.0,Product Owner,614960
+Machine Learning Engineer,"Selenium, Python, Linux",2.7,Data Scientist,515176
+Intern,"Photoshop, Django, Agile",3.4,Junior Developer,673990
+Intern,"MongoDB, PyTorch, Figma, Node.js",3.3,Junior Developer,487271
+Business Analyst,"C++, Flask, Node.js, Agile, Excel",1.4,Product Owner,316599
+Database Admin,"Azure, Django",0.5,Data Engineer,276932
+Backend Developer,"Agile, Docker, Cypress, Figma, TensorFlow",3.3,Software Engineer,653565
+HR Executive,"Azure, Flask, Git",3.5,People Operations Lead,633751
+Junior Developer,"NLP, Git, Linux, AWS, Kubernetes",2.5,Frontend Developer,648675
+Cybersecurity Analyst,"Pandas, Selenium",0.9,Security Engineer,356507
+UI Designer,"Figma, Linux, Docker, Python",4.0,UI/UX Lead,915624
+Fresher,"TensorFlow, Django, Git",2.4,Junior Developer,462377
+Database Admin,"Node.js, JavaScript, Pandas",5.0,Senior DBA,1157935
+Fresher,"Flask, Scrum, Java",1.4,Junior Developer,385502
+Business Analyst,"Figma, PowerBI",2.0,Product Owner,433296
+Intern,"HTML, MongoDB",2.3,QA Engineer,460792
+Frontend Developer,"C++, Excel, Docker, Scrum, Photoshop",1.9,Full Stack Developer,358007
+HR Executive,"React, Agile, Selenium",2.1,HR Manager,422931
+Product Manager,"Excel, React, Scrum, Docker",1.9,Director of Product,357973
+Data Analyst,"Linux, Python, Agile, Photoshop",0.8,BI Analyst,284289
+Frontend Developer,"NLP, Docker, PowerBI",2.3,Full Stack Developer,604181
+Fresher,"Cypress, MongoDB, Scrum, Java, Python",0.1,Junior Developer,211407
+Cloud Engineer,"Java, SQL",1.1,DevOps Lead,392447
+UX Designer,"Selenium, Pandas, React",0.4,Design Lead,259796
+Data Analyst,"PowerBI, Git, Cypress",3.6,BI Analyst,782112
+Cybersecurity Analyst,"Scrum, Selenium, Agile, SQL, Flask",1.3,Security Engineer,384892
+Machine Learning Engineer,"Python, Java, Pandas",2.1,AI Engineer,567500
+DevOps Engineer,"CSS, AWS, React, Docker",1.7,Site Reliability Engineer,446775
+Full Stack Developer,"PowerBI, MongoDB, TensorFlow, Agile",4.7,Senior Full Stack Developer,1014857
+Business Analyst,"Kubernetes, PowerBI, HTML, Node.js, JavaScript",0.5,Product Manager,268223
+Full Stack Developer,"Excel, PowerBI",3.4,Tech Lead,592132
+Fresher,"Node.js, AWS",0.2,QA Intern,216855
+Database Admin,"Node.js, AWS, React, HTML, CSS",3.7,Data Engineer,816560
+Intern,"Cypress, HTML, Kubernetes, Selenium, SQL",0.3,QA Engineer,233467
+Software Engineer,"Selenium, TensorFlow, C++, Linux",3.4,Tech Lead,808593
+Data Analyst,"Figma, Linux, SQL, Git",0.8,Data Scientist,359348
+Data Analyst,"SQL, Node.js",2.5,Data Scientist,622400
+Frontend Developer,"Git, Figma, Cypress, Kubernetes, Photoshop",1.7,UI Engineer,455197
+Database Admin,"SQL, Flask, Git, JavaScript, Excel",2.5,Data Engineer,521952
+Intern,"SQL, Selenium, Cypress, TensorFlow, Python",5.0,Junior Developer,1087575
+Cybersecurity Analyst,"Kubernetes, React, TensorFlow, Azure",4.1,Security Engineer,976966
+Product Manager,"Excel, Linux, Python, PyTorch",4.3,Senior Product Manager,569546
+Intern,"Agile, Kubernetes",1.3,Junior Developer,325309
+Software Engineer,"AWS, Photoshop, Node.js, JavaScript",2.6,Tech Lead,688529
+UX Designer,"Azure, Git, Kubernetes",3.0,Design Lead,638561
+Product Manager,"Excel, Git, Pandas, PowerBI",3.2,Senior Product Manager,505737
+Product Manager,"Azure, CSS, SQL, HTML",0.8,Senior Product Manager,278292
+Database Admin,"Scrum, React, Docker",0.0,Data Engineer,200000
+Junior Developer,"Pandas, NLP, TensorFlow, Cypress",2.8,Frontend Developer,496312
+Business Analyst,"React, Python, C++, JavaScript, Docker",4.1,Product Manager,800297
+Product Manager,"Python, Django, CSS, Pandas",2.5,Director of Product,438765
+UX Designer,"Kubernetes, Azure, CSS, Docker",2.0,Product Designer,436158
+Cloud Engineer,"Flask, Selenium",2.8,Cloud Architect,587738
+Machine Learning Engineer,"Azure, JavaScript, HTML",2.7,AI Engineer,505972
+Fresher,"Linux, Docker, Figma, HTML, React",1.8,QA Intern,422451
+UI Designer,"Git, Selenium, Pandas, Scrum, NLP",4.1,UX Designer,580791
+Full Stack Developer,"NLP, CSS",2.4,Tech Lead,406004
+Cloud Engineer,"TensorFlow, Agile, Cypress, CSS",2.6,Cloud Architect,570383
+Backend Developer,"MongoDB, Cypress, Selenium, Excel",4.9,Software Engineer,611408
+Business Analyst,"Linux, Scrum",2.8,Product Manager,623903
+Machine Learning Engineer,"React, Django, Agile, Flask",2.1,AI Engineer,560475
+Full Stack Developer,"C++, Linux, Git, Selenium, Excel",4.1,Tech Lead,813515
+QA Engineer,"Pandas, PowerBI, Git, MongoDB",0.6,Test Engineer,291974
+QA Engineer,"Python, PowerBI",0.4,QA Lead,278357
+Cloud Engineer,"Node.js, Scrum, Azure, Linux, Flask",3.3,Cloud Architect,634880
+Junior Developer,"Azure, React, TensorFlow",1.6,Software Engineer,408700
+Cloud Engineer,"Python, Cypress",1.6,Cloud Architect,502348
+Cloud Engineer,"Excel, JavaScript, Linux, Photoshop, TensorFlow",2.9,Cloud Architect,521082
+HR Executive,"NLP, React, SQL",3.2,People Operations Lead,470684
+QA Engineer,"Django, JavaScript, TensorFlow, AWS",2.1,Test Engineer,381026
+Intern,"Flask, TensorFlow, Figma",2.2,UI Designer,508305
+QA Engineer,"Kubernetes, PowerBI",3.4,Test Engineer,545236
+Fresher,"TensorFlow, Agile",1.4,Junior Developer,366817
+Backend Developer,"Python, MongoDB",0.6,Software Engineer,286247
+HR Executive,"Photoshop, Django, React, CSS",3.4,HR Manager,629552
+Frontend Developer,"CSS, Selenium, PyTorch, Excel",4.4,UI Engineer,704420
+Fresher,"PyTorch, Git",1.6,QA Intern,358752
+DevOps Engineer,"Node.js, Django, Figma, Python, Linux",3.7,Cloud Engineer,673433
+Frontend Developer,"Docker, Photoshop, Cypress, Git",3.8,Full Stack Developer,792146
+AI Engineer,"Cypress, Selenium, Excel, Kubernetes, Git",2.8,Tech Lead,593425
+HR Executive,"Excel, Cypress, Django, Python, Docker",3.8,People Operations Lead,565301
+DevOps Engineer,"Docker, Flask",0.6,Cloud Engineer,319483
+Cloud Engineer,"Node.js, Cypress, C++, Kubernetes",3.8,Cloud Architect,530204
+Backend Developer,"CSS, HTML",4.3,Software Engineer,980381
+UI Designer,"MongoDB, Django",3.1,UI/UX Lead,638330
+Fresher,"CSS, Linux, PowerBI, Agile, Selenium",4.2,Frontend Developer,901908
+HR Executive,"Agile, Pandas",4.9,People Operations Lead,1061116
+Software Engineer,"Node.js, TensorFlow, Cypress, SQL",4.9,Senior Software Engineer,1166201
+Business Analyst,"HTML, Selenium, Node.js, JavaScript, Flask",4.6,Product Owner,686588
+Junior Developer,"Scrum, AWS, Node.js, Docker, Kubernetes",2.7,Frontend Developer,440961
+Business Analyst,"Flask, Docker",3.0,Product Manager,696893
+Cloud Engineer,"Node.js, NLP, Django",1.2,DevOps Lead,366484
+Backend Developer,"Pandas, Kubernetes",1.1,Full Stack Developer,395516
+UI Designer,"C++, NLP, Agile",0.1,UI/UX Lead,219716
+Database Admin,"CSS, SQL",4.1,Data Engineer,902821
+Software Engineer,"PowerBI, Pandas, Figma",2.5,Senior Software Engineer,556420
+Junior Developer,"Photoshop, AWS, HTML",2.4,Software Engineer,593955
+AI Engineer,"Scrum, TensorFlow",0.2,Tech Lead,229206
+Junior Developer,"Scrum, PyTorch, Selenium, Docker, CSS",4.0,Software Engineer,745052
+Data Analyst,"Flask, Cypress",2.4,Data Scientist,463248
+DevOps Engineer,"C++, JavaScript, Selenium, AWS",4.2,Site Reliability Engineer,713319
+Software Engineer,"CSS, PowerBI, C++, Django",4.4,Tech Lead,898104
+Intern,"Kubernetes, Photoshop",4.1,Junior Developer,535970
+Junior Developer,"Selenium, Pandas, Django",1.1,Frontend Developer,390863
+Database Admin,"Linux, AWS, CSS, Git",4.8,Data Engineer,615862
+DevOps Engineer,"CSS, Agile, Selenium, Scrum, Cypress",3.8,Site Reliability Engineer,602097
+Machine Learning Engineer,"JavaScript, PowerBI, MongoDB, NLP",2.0,AI Engineer,394990
+Full Stack Developer,"CSS, Flask, NLP, Kubernetes",2.3,Senior Full Stack Developer,609574
+Cloud Engineer,"Kubernetes, Flask, SQL, NLP",4.0,Cloud Architect,767076
+Database Admin,"Cypress, Excel",4.7,Data Engineer,995019
+Frontend Developer,"Photoshop, C++",3.9,Full Stack Developer,765866
+Cybersecurity Analyst,"Photoshop, NLP, JavaScript, React, Figma",1.0,Security Engineer,391499
+Business Analyst,"Node.js, Kubernetes, Django, PyTorch",2.8,Product Manager,701886
+HR Executive,"TensorFlow, NLP, Agile, C++, Docker",3.2,People Operations Lead,594921
+Junior Developer,"HTML, AWS",2.0,Software Engineer,472448
+Junior Developer,"TensorFlow, MongoDB, Photoshop, Azure",0.0,Software Engineer,200000
+Machine Learning Engineer,"Java, Node.js, Figma",2.8,Data Scientist,552657
+QA Engineer,"Node.js, Linux",4.6,Test Engineer,1027963
+Cloud Engineer,"TensorFlow, JavaScript, PyTorch, Docker, Scrum",2.2,DevOps Lead,380263
+Data Analyst,"Scrum, React, Figma, NLP",2.3,BI Analyst,625435
+Intern,"Linux, React",0.5,UI Designer,294002
+Cybersecurity Analyst,"JavaScript, PyTorch, Figma, Cypress",3.9,Security Engineer,968389
+UX Designer,"Scrum, HTML, Java, Flask",3.1,Product Designer,626082
+Database Admin,"CSS, TensorFlow, MongoDB",1.3,Senior DBA,320987
+Machine Learning Engineer,"HTML, C++, Figma",1.1,AI Engineer,352068
+UX Designer,"Python, CSS",4.6,Design Lead,881545
+Frontend Developer,"JavaScript, Pandas, Kubernetes",1.3,Full Stack Developer,338160
+QA Engineer,"SQL, HTML",1.7,Test Engineer,491196
+Cloud Engineer,"MongoDB, SQL, Docker",2.9,Cloud Architect,660427
+Data Analyst,"Scrum, C++, Flask, PyTorch",4.7,BI Analyst,963430
+Backend Developer,"Pandas, Django, AWS",5.0,Software Engineer,799880
+Cloud Engineer,"Flask, Cypress, C++, Photoshop, CSS",0.1,DevOps Lead,213249
+Fresher,"Selenium, MongoDB, TensorFlow",3.9,Frontend Developer,959072
+Software Engineer,"Kubernetes, Scrum",3.5,Senior Software Engineer,559835
+Backend Developer,"HTML, AWS, Pandas, C++",3.5,Software Engineer,738044
+Data Analyst,"AWS, React, HTML, Kubernetes",1.0,Data Scientist,331879
+Full Stack Developer,"PowerBI, React, Agile",3.0,Tech Lead,577427
+AI Engineer,"Pandas, MongoDB, Python",0.2,AI Architect,223802
+UI Designer,"Figma, MongoDB, Azure, Git, Cypress",4.8,UI/UX Lead,865270
+AI Engineer,"Excel, Pandas, AWS, TensorFlow, MongoDB",2.4,AI Architect,421109
+Intern,"TensorFlow, Git, NLP",0.8,QA Engineer,334910
+UX Designer,"Flask, Kubernetes, Selenium",1.4,Design Lead,391219
+UX Designer,"Scrum, MongoDB, React, Photoshop, CSS",1.9,Design Lead,509183
+Data Analyst,"Python, Figma, PyTorch",4.2,Data Scientist,904705
+Fresher,"Azure, Linux",3.9,Junior Developer,834682
+Software Engineer,"Linux, Scrum, Figma, Docker, NLP",2.5,Senior Software Engineer,479072
+UI Designer,"Flask, C++",3.6,UI/UX Lead,899512
+Frontend Developer,"C++, Agile, AWS, Kubernetes, TensorFlow",2.5,Full Stack Developer,670172
+Frontend Developer,"Selenium, Scrum",3.2,Full Stack Developer,586105
+Intern,"Cypress, Git, Photoshop, AWS, CSS",4.7,UI Designer,1061575
+Product Manager,"PowerBI, Excel, Java, TensorFlow, Node.js",2.4,Director of Product,563976
+AI Engineer,"MongoDB, Flask",3.9,AI Architect,656857
+Data Analyst,"TensorFlow, Node.js, Scrum, Excel",4.6,BI Analyst,1037337
+Product Manager,"Azure, NLP, TensorFlow, Node.js",1.8,Director of Product,507593
+Junior Developer,"Pandas, PyTorch",2.3,Frontend Developer,613123
+QA Engineer,"PowerBI, Excel",0.9,Test Engineer,278015
+QA Engineer,"Python, Cypress, Linux, Kubernetes",0.1,QA Lead,215534
+QA Engineer,"CSS, Flask",4.4,Test Engineer,945126
+Database Admin,"Agile, AWS, Scrum, Python, Pandas",3.4,Senior DBA,667734
+Product Manager,"Python, AWS, React, Scrum, Node.js",1.2,Director of Product,335951
+Full Stack Developer,"CSS, Kubernetes, NLP",2.5,Tech Lead,414107
+Product Manager,"Scrum, AWS, PowerBI, HTML, Excel",3.9,Senior Product Manager,954833
+UX Designer,"Scrum, MongoDB, Linux",2.5,Product Designer,605792
+Data Analyst,"NLP, Selenium, C++",2.5,Data Scientist,486232
+Business Analyst,"React, Docker, C++",3.5,Product Owner,753875
+Full Stack Developer,"React, Selenium, HTML",0.6,Tech Lead,307775
+Frontend Developer,"HTML, Cypress, C++, Agile, PyTorch",2.6,UI Engineer,687536
+Fresher,"HTML, Figma",3.6,Frontend Developer,544980
+UX Designer,"CSS, Figma, Excel",2.1,Product Designer,497956
+Fresher,"NLP, Agile",1.0,Frontend Developer,386018
+Junior Developer,"PowerBI, MongoDB, CSS, Linux, HTML",4.6,Software Engineer,950899
+UX Designer,"Python, Django, CSS",2.3,Design Lead,612813
+UX Designer,"Git, SQL, Linux, Figma, AWS",0.7,Product Designer,263633
+Fresher,"PowerBI, HTML, Java",3.5,Junior Developer,524499
+DevOps Engineer,"NLP, Linux, Pandas, Kubernetes, C++",3.9,Site Reliability Engineer,587667
+AI Engineer,"Kubernetes, Node.js",2.4,Tech Lead,403356
+Software Engineer,"NLP, Photoshop, C++",2.5,Tech Lead,486167
+Cloud Engineer,"TensorFlow, Python, PowerBI, C++, AWS",0.7,DevOps Lead,256095
+Fresher,"Selenium, Photoshop, TensorFlow, PyTorch, Pandas",4.6,QA Intern,1053824
+QA Engineer,"PowerBI, Docker, Excel, TensorFlow, NLP",0.2,Test Engineer,221144
+Cybersecurity Analyst,"Docker, JavaScript, HTML, Kubernetes",0.8,Security Engineer,279518
+Business Analyst,"HTML, TensorFlow, Excel",2.9,Product Owner,600020
+Intern,"Django, Linux, Node.js, AWS",2.4,Junior Developer,535364
+Cybersecurity Analyst,"React, MongoDB, Photoshop",1.9,Security Engineer,572333
+Software Engineer,"Excel, CSS, Flask, PyTorch, MongoDB",2.1,Senior Software Engineer,592252
+Software Engineer,"PowerBI, Photoshop, AWS, SQL",2.5,Senior Software Engineer,545767
+Cloud Engineer,"Cypress, Linux, React, TensorFlow",4.0,Cloud Architect,588972
+Backend Developer,"Node.js, Azure, Java",3.7,Software Engineer,777917
+Backend Developer,"NLP, Figma, Kubernetes, Flask",1.3,Software Engineer,393904
+Data Analyst,"Linux, PyTorch, Pandas, Git",2.6,BI Analyst,463010
+Frontend Developer,"Java, JavaScript, Python",4.7,UI Engineer,722325
+Fresher,"Flask, HTML, Java, Git, Pandas",2.9,QA Intern,647530
+Data Analyst,"React, Figma, Kubernetes, Agile",2.1,Data Scientist,530365
+DevOps Engineer,"Figma, Photoshop, JavaScript",2.9,Cloud Engineer,629971
+Business Analyst,"Cypress, C++, Figma, Docker, Selenium",4.0,Product Owner,894672
+Fresher,"SQL, Azure, Selenium, Python",3.2,Frontend Developer,689299
+Fresher,"Selenium, Flask, Django, Photoshop",1.5,QA Intern,392897
+Intern,"Figma, Django",0.5,Junior Developer,292534
+Junior Developer,"Docker, Azure",2.8,Software Engineer,647440
+Database Admin,"Excel, SQL, Flask, TensorFlow",1.6,Senior DBA,434872
+HR Executive,"Kubernetes, Excel, Java, Docker, Django",0.5,People Operations Lead,241977
+UI Designer,"Linux, Pandas, PyTorch, Azure",4.0,UX Designer,879756
+UX Designer,"Agile, Excel, PyTorch, TensorFlow",1.2,Design Lead,402455
+Fresher,"Excel, Flask, Git, AWS, TensorFlow",0.1,Intern,214176
+AI Engineer,"Python, MongoDB",2.0,Tech Lead,460228
+Machine Learning Engineer,"Git, Pandas, TensorFlow, Figma",3.2,AI Engineer,612931
+Frontend Developer,"Agile, Linux",3.1,Full Stack Developer,473230
+Product Manager,"PyTorch, Docker, Pandas, Node.js, Excel",4.9,Senior Product Manager,1124889
+DevOps Engineer,"Django, C++, NLP, AWS, Flask",0.2,Site Reliability Engineer,222356
+Junior Developer,"Django, AWS, Selenium, C++",3.3,Software Engineer,776704
+Data Analyst,"PowerBI, Figma, Pandas, SQL, AWS",2.2,Data Scientist,404243
+Full Stack Developer,"CSS, Excel",4.1,Senior Full Stack Developer,986892
+Intern,"Agile, Photoshop, Figma, PowerBI",4.6,QA Engineer,933161
+Business Analyst,"Pandas, NLP",2.7,Product Manager,430391
+Full Stack Developer,"Flask, Python, Java, Linux, Node.js",3.0,Senior Full Stack Developer,608504
+Data Analyst,"Agile, Git, React, MongoDB",4.6,BI Analyst,710264
+QA Engineer,"JavaScript, Figma, Git, MongoDB",2.4,QA Lead,640100
+UX Designer,"NLP, Excel, Kubernetes",0.6,Product Designer,301206
+Intern,"PowerBI, Docker, SQL",3.9,Junior Developer,629471
+Cloud Engineer,"TensorFlow, Excel, NLP",1.9,DevOps Lead,382789
+Fresher,"HTML, Photoshop, Excel, CSS, Flask",2.4,QA Intern,397505
+Frontend Developer,"Git, Django",0.7,UI Engineer,339533
+UX Designer,"Docker, C++, CSS",4.9,Product Designer,628083
+Junior Developer,"React, Cypress, Photoshop, Python",0.4,Frontend Developer,240072
+UX Designer,"Pandas, MongoDB, Figma",2.2,Design Lead,507223
+Full Stack Developer,"Cypress, NLP, Photoshop, MongoDB",1.7,Tech Lead,405922
+Business Analyst,"CSS, Java",3.2,Product Manager,528374
+Fresher,"Azure, Linux, MongoDB, PowerBI, Docker",3.2,QA Intern,680448
+Machine Learning Engineer,"Excel, Java, Node.js, Kubernetes",1.5,AI Engineer,498908
+UI Designer,"HTML, Excel",2.1,UI/UX Lead,433496
+Backend Developer,"Linux, NLP, Django",1.9,Full Stack Developer,535608
+Full Stack Developer,"Selenium, Scrum",0.1,Senior Full Stack Developer,215898
+Machine Learning Engineer,"React, TensorFlow, Scrum, PyTorch",0.3,Data Scientist,240138
+DevOps Engineer,"Agile, PyTorch, NLP, C++",2.2,Cloud Engineer,604371
+QA Engineer,"TensorFlow, Linux",0.1,Test Engineer,213413
+Cybersecurity Analyst,"Flask, Linux, C++",0.4,Security Engineer,243366
+Fresher,"Scrum, PowerBI, CSS, Selenium, Figma",1.3,Intern,366162
+Backend Developer,"NLP, Agile, Figma, Flask, AWS",1.1,Full Stack Developer,377325
+Fresher,"Selenium, Figma",0.6,QA Intern,272504
+HR Executive,"TensorFlow, Django",2.2,People Operations Lead,450030
+UI Designer,"Docker, CSS, Azure",1.5,UI/UX Lead,345404
+Business Analyst,"JavaScript, React, Git, MongoDB, Django",4.1,Product Manager,582612
+Software Engineer,"Node.js, HTML",1.2,Senior Software Engineer,372150
+UI Designer,"Excel, SQL, C++, Python",1.5,UI/UX Lead,357089
+Data Analyst,"Azure, Pandas",3.8,BI Analyst,573961
+Business Analyst,"Kubernetes, Java",3.0,Product Owner,776804
+Product Manager,"Pandas, Git, Docker, Azure",2.4,Director of Product,655395
+Business Analyst,"Flask, PowerBI, CSS, C++",4.4,Product Manager,691308
+Frontend Developer,"C++, NLP",1.0,Full Stack Developer,304346
+Product Manager,"Docker, Linux",4.9,Senior Product Manager,947759
+Cloud Engineer,"React, MongoDB, Python, Flask",4.8,DevOps Lead,615996
+Machine Learning Engineer,"PyTorch, MongoDB, Docker",3.3,AI Engineer,563237
+Intern,"JavaScript, Agile, PowerBI, Pandas, Cypress",1.8,QA Engineer,559685
+Software Engineer,"Agile, JavaScript",3.4,Tech Lead,525570
+HR Executive,"Node.js, React, TensorFlow",4.1,People Operations Lead,905933
+UI Designer,"Python, SQL, Linux",0.2,UX Designer,219936
+Full Stack Developer,"Excel, Selenium, JavaScript, Git",2.5,Senior Full Stack Developer,583607
+Intern,"Pandas, Photoshop, Kubernetes, C++, Azure",3.8,Junior Developer,941106
+Intern,"Cypress, Figma, NLP",4.9,Junior Developer,755660
+Data Analyst,"Excel, PyTorch, Pandas",3.2,BI Analyst,464809
+AI Engineer,"C++, TensorFlow, Photoshop, SQL",2.7,Tech Lead,702016
+Backend Developer,"Agile, Django, SQL, JavaScript",4.2,Full Stack Developer,687124
+Database Admin,"AWS, Azure, Kubernetes, HTML",1.4,Data Engineer,391553
+Data Analyst,"Python, Flask, Node.js",0.1,Data Scientist,211461
+Intern,"Flask, CSS",3.2,Junior Developer,734902
+HR Executive,"Agile, Git, Azure, Node.js",0.1,HR Manager,212866
+Machine Learning Engineer,"AWS, NLP",0.7,AI Engineer,301284
+Full Stack Developer,"Python, Photoshop, C++, MongoDB, Linux",2.1,Senior Full Stack Developer,407891
+Cybersecurity Analyst,"Pandas, NLP, Python, MongoDB, Scrum",1.1,Cybersecurity Lead,348261
+Frontend Developer,"Figma, Excel, Kubernetes",2.4,UI Engineer,658371
+Cloud Engineer,"Flask, TensorFlow, C++",3.3,DevOps Lead,590343
+Database Admin,"SQL, Azure, Photoshop, Flask, Docker",4.4,Data Engineer,674452
+UX Designer,"PowerBI, NLP, PyTorch",3.3,Product Designer,535009
+Machine Learning Engineer,"MongoDB, HTML, Kubernetes, TensorFlow, Node.js",1.1,AI Engineer,402690
+HR Executive,"PyTorch, Kubernetes",1.2,HR Manager,372384
+Cloud Engineer,"Kubernetes, PowerBI, Cypress, Docker, Linux",3.0,DevOps Lead,756506
+Cloud Engineer,"Docker, Git, Java, Pandas, AWS",3.4,Cloud Architect,858838
+Business Analyst,"Figma, CSS",1.0,Product Owner,290141
+UI Designer,"PowerBI, Azure",0.9,UI/UX Lead,304961
+Intern,"MongoDB, Python",3.8,UI Designer,837993
+Data Analyst,"Azure, MongoDB, Node.js, Excel, Python",3.2,Data Scientist,562576
+UI Designer,"Azure, MongoDB, Docker",2.9,UX Designer,753505
+AI Engineer,"JavaScript, Azure, Kubernetes, NLP, C++",1.2,Tech Lead,409110
+AI Engineer,"SQL, Kubernetes, HTML",3.8,Tech Lead,891676
+Machine Learning Engineer,"CSS, Python, AWS, MongoDB, Java",1.9,Data Scientist,576253
+Software Engineer,"Pandas, Django, Photoshop, Git",1.0,Tech Lead,290106
+Backend Developer,"Pandas, Git, Django, HTML",0.9,Full Stack Developer,329409
+Junior Developer,"Cypress, Node.js",1.8,Software Engineer,408805
+Business Analyst,"Cypress, Photoshop, Linux, Agile",3.7,Product Owner,534898
+Full Stack Developer,"TensorFlow, Agile, Excel",2.4,Tech Lead,528149
+Fresher,"Git, TensorFlow, Java",3.4,Intern,558346
+Frontend Developer,"TensorFlow, SQL, Docker, Git",3.9,UI Engineer,529780
+Backend Developer,"Python, Git",4.4,Full Stack Developer,985250
+Frontend Developer,"Flask, NLP, SQL, Node.js, Agile",4.0,Full Stack Developer,993448
+UX Designer,"Azure, CSS, MongoDB, TensorFlow, Node.js",0.6,Design Lead,279557
+Junior Developer,"Docker, Cypress, TensorFlow, JavaScript, Excel",2.5,Frontend Developer,412972
+Cloud Engineer,"Java, Docker",4.5,DevOps Lead,653717
+Database Admin,"C++, Selenium, MongoDB, Java, Scrum",0.8,Senior DBA,334449
+Fresher,"Figma, Azure, PowerBI, TensorFlow, C++",1.2,Intern,421128
+Full Stack Developer,"MongoDB, Scrum, CSS",2.8,Senior Full Stack Developer,510780
+Cloud Engineer,"Linux, Kubernetes, Python, SQL",1.1,DevOps Lead,419488
+Software Engineer,"Azure, TensorFlow, Node.js, PyTorch, AWS",4.6,Senior Software Engineer,710186
+HR Executive,"Selenium, Flask, PyTorch, PowerBI",0.8,People Operations Lead,347374
+Data Analyst,"C++, Git, Flask, Azure, NLP",3.4,BI Analyst,590840
+Cloud Engineer,"Python, HTML",0.1,Cloud Architect,216790
+Machine Learning Engineer,"TensorFlow, Cypress",3.8,AI Engineer,559202
+Cloud Engineer,"Linux, Java, AWS",3.8,Cloud Architect,899321
+Fresher,"Docker, Photoshop",1.2,Junior Developer,381987
+HR Executive,"Node.js, PyTorch, Selenium",3.2,HR Manager,494966
+UI Designer,"PowerBI, SQL, Linux",4.0,UX Designer,761616
+Machine Learning Engineer,"JavaScript, Git",5.0,Data Scientist,776895
+UX Designer,"Photoshop, Figma, PyTorch",1.1,Design Lead,323038
+QA Engineer,"Cypress, Azure",0.9,QA Lead,305260
+QA Engineer,"SQL, NLP, TensorFlow, Java",4.3,Test Engineer,628649
+AI Engineer,"C++, Flask, PowerBI, React, Photoshop",4.1,Tech Lead,675243
+Fresher,"CSS, Python, SQL, TensorFlow",4.7,Junior Developer,1054431
+Fresher,"Node.js, Django",4.5,Intern,876804
+AI Engineer,"Python, Node.js",5.0,Tech Lead,728655
+AI Engineer,"CSS, Java, Flask, C++",4.3,Tech Lead,810514
+UI Designer,"Kubernetes, Agile, PowerBI, Figma, Cypress",3.8,UI/UX Lead,595754
+UI Designer,"Django, Git",3.0,UI/UX Lead,720806
+Cloud Engineer,"JavaScript, MongoDB",2.4,Cloud Architect,478683
+Junior Developer,"Agile, Linux, Cypress",4.7,Frontend Developer,752635
+Full Stack Developer,"PyTorch, Cypress",4.5,Senior Full Stack Developer,880850
+QA Engineer,"Cypress, Agile, NLP",3.1,QA Lead,502352
+QA Engineer,"Linux, Kubernetes, Git, Agile, MongoDB",4.3,Test Engineer,582652
+Intern,"PowerBI, MongoDB",4.2,Junior Developer,594590
+Frontend Developer,"CSS, Excel",1.1,Full Stack Developer,306973
+Junior Developer,"AWS, MongoDB",2.3,Frontend Developer,593670
+Full Stack Developer,"Node.js, JavaScript",0.4,Senior Full Stack Developer,261457
+Intern,"Scrum, React, JavaScript, Pandas, C++",3.9,Junior Developer,919514
+QA Engineer,"Excel, Kubernetes, Java, PowerBI, TensorFlow",4.7,QA Lead,803682
+Software Engineer,"Scrum, Linux, Django",0.7,Tech Lead,270809
+Cybersecurity Analyst,"Figma, Agile, Kubernetes, Selenium, Java",4.7,Security Engineer,911443
+Data Analyst,"CSS, AWS, Java, Pandas",2.6,Data Scientist,513705
+Product Manager,"React, Excel, MongoDB",3.8,Director of Product,951013
+Software Engineer,"Kubernetes, C++, Linux",2.8,Senior Software Engineer,568275
+UI Designer,"C++, AWS, Photoshop, React",4.6,UX Designer,763320
+HR Executive,"MongoDB, Cypress",4.2,HR Manager,815220
+UX Designer,"NLP, Flask",1.4,Product Designer,450615
+Frontend Developer,"Python, JavaScript",3.7,Full Stack Developer,627560
+UI Designer,"JavaScript, Django",3.2,UX Designer,649612
+Full Stack Developer,"Docker, Django, Linux, Selenium, JavaScript",1.9,Tech Lead,466974
+QA Engineer,"Node.js, Flask",3.1,QA Lead,591530
+Fresher,"MongoDB, Scrum, SQL, NLP, Linux",2.0,Frontend Developer,553058
+Business Analyst,"NLP, Agile",0.1,Product Manager,208342
+Business Analyst,"PyTorch, Selenium, AWS",4.5,Product Owner,1079669
+Data Analyst,"Kubernetes, C++, PowerBI, Node.js",4.2,BI Analyst,765807
+QA Engineer,"Linux, MongoDB, Git",0.9,Test Engineer,363447
+Machine Learning Engineer,"Pandas, Git",2.8,Data Scientist,682946
+Software Engineer,"Java, Pandas",1.1,Senior Software Engineer,359043
+Data Analyst,"Flask, HTML, C++",0.7,Data Scientist,295917
+Machine Learning Engineer,"Pandas, Agile",0.3,Data Scientist,251543
+QA Engineer,"SQL, Docker, JavaScript, Flask",1.7,Test Engineer,500116
+UX Designer,"Docker, NLP, Java, AWS, Excel",3.3,Design Lead,825247
+Backend Developer,"Docker, Excel, MongoDB, SQL, Scrum",1.4,Software Engineer,471289
+Data Analyst,"Git, JavaScript, TensorFlow, PyTorch, AWS",0.6,BI Analyst,286583
+DevOps Engineer,"Photoshop, Selenium, Agile",2.8,Cloud Engineer,550722
+Full Stack Developer,"Node.js, Python, Linux, Agile, Figma",1.8,Senior Full Stack Developer,397721
+QA Engineer,"Python, HTML",2.1,Test Engineer,609689
+Machine Learning Engineer,"HTML, Python, Java, Excel",0.6,Data Scientist,275967
+Backend Developer,"Pandas, MongoDB",3.5,Software Engineer,597253
+Frontend Developer,"AWS, CSS, Cypress, MongoDB",4.5,Full Stack Developer,1076685
+UI Designer,"Azure, Git",2.7,UX Designer,543380
+Machine Learning Engineer,"AWS, JavaScript, CSS, TensorFlow",3.4,AI Engineer,646321
+QA Engineer,"Photoshop, TensorFlow, React, Kubernetes",3.4,Test Engineer,695798
+Junior Developer,"C++, Selenium",4.8,Software Engineer,655107
+UI Designer,"PowerBI, Flask, MongoDB, Node.js, Agile",1.5,UX Designer,333765
+Machine Learning Engineer,"Linux, CSS",2.6,Data Scientist,567811
+Cybersecurity Analyst,"C++, NLP, Pandas",4.9,Cybersecurity Lead,1031809
+Backend Developer,"C++, JavaScript",1.0,Software Engineer,295077
+UX Designer,"AWS, Linux, PyTorch, Flask",0.7,Design Lead,298515
+Cybersecurity Analyst,"Azure, Git, Linux, Django",4.4,Cybersecurity Lead,814442
+Data Analyst,"Photoshop, Node.js, JavaScript, Cypress, MongoDB",1.1,BI Analyst,394810
+UX Designer,"Photoshop, NLP",2.6,Design Lead,590044
+Machine Learning Engineer,"Photoshop, Python",2.9,AI Engineer,609453
+AI Engineer,"Django, NLP, CSS, React",4.9,AI Architect,658326
+Cloud Engineer,"Selenium, Excel, Pandas, Java",3.2,DevOps Lead,745254
+UI Designer,"Node.js, Linux",2.5,UI/UX Lead,425922
+Cloud Engineer,"HTML, PowerBI, TensorFlow, Python",0.6,Cloud Architect,267651
+Full Stack Developer,"Flask, Scrum, HTML, Django, Azure",2.2,Tech Lead,603715
+Fresher,"Git, C++, Java",4.0,Intern,785724
+UI Designer,"AWS, Pandas, Selenium",3.2,UX Designer,625888
+Frontend Developer,"Photoshop, Java, Excel, Pandas",0.6,Full Stack Developer,254805
+Machine Learning Engineer,"Pandas, PyTorch, Node.js, Cypress",1.5,Data Scientist,419280
+Backend Developer,"React, Azure, Flask, NLP, HTML",2.2,Software Engineer,607512
+Data Analyst,"TensorFlow, React, Docker",2.3,BI Analyst,436267
+Database Admin,"Pandas, NLP, Kubernetes, Figma",0.3,Senior DBA,239900
+Product Manager,"TensorFlow, Figma, Java",4.2,Senior Product Manager,903806
+Backend Developer,"PyTorch, Java, Flask, CSS, React",3.7,Full Stack Developer,765770
+HR Executive,"HTML, Java, React",4.1,People Operations Lead,566740
+UI Designer,"TensorFlow, Kubernetes, NLP, Azure",0.7,UX Designer,280602
+Cybersecurity Analyst,"Django, Azure, TensorFlow, NLP, Linux",2.1,Security Engineer,591899
+Product Manager,"Kubernetes, MongoDB, C++, PowerBI",4.4,Director of Product,622144
+AI Engineer,"Django, PyTorch, PowerBI",2.2,Tech Lead,397808
+Business Analyst,"PowerBI, Scrum, Azure, PyTorch",2.5,Product Manager,435530
+Intern,"Photoshop, HTML, Azure, React, PyTorch",3.4,QA Engineer,575836
+Product Manager,"Azure, MongoDB, Photoshop, Scrum",1.8,Director of Product,438377
+UI Designer,"Agile, CSS, Selenium",3.7,UX Designer,717852
+Data Analyst,"Docker, JavaScript, Selenium, Agile, HTML",4.1,BI Analyst,844011
+Fresher,"PyTorch, C++, Java",1.5,Frontend Developer,485102
+QA Engineer,"PowerBI, Azure, React, CSS, Flask",2.2,QA Lead,430148
+Cloud Engineer,"Django, Flask, HTML",0.8,Cloud Architect,340520
+Frontend Developer,"Cypress, Agile, Photoshop",2.5,Full Stack Developer,678590
+Machine Learning Engineer,"C++, Excel, Agile, Cypress",0.9,AI Engineer,347195
+DevOps Engineer,"NLP, Cypress",2.8,Site Reliability Engineer,553777
+Cloud Engineer,"SQL, Excel, React",0.1,DevOps Lead,210188
+HR Executive,"JavaScript, PyTorch, Agile, Docker, Java",4.4,People Operations Lead,641377
+Business Analyst,"Selenium, NLP",1.3,Product Owner,319327
+Database Admin,"Git, Pandas, Java",2.5,Data Engineer,565362
+Cybersecurity Analyst,"PyTorch, Python, AWS, Node.js, Linux",5.0,Cybersecurity Lead,1143220
+QA Engineer,"Azure, TensorFlow, Scrum, Python, C++",2.0,QA Lead,469440
+Cybersecurity Analyst,"React, Git, Django",2.5,Cybersecurity Lead,579575
+QA Engineer,"PyTorch, SQL, CSS, Linux",2.9,QA Lead,472350
+Software Engineer,"AWS, NLP, Figma, Azure",4.2,Senior Software Engineer,1010436
+Machine Learning Engineer,"React, C++, Flask, PyTorch",2.8,AI Engineer,537195
+UX Designer,"PowerBI, Azure",2.8,Product Designer,665124
+Data Analyst,"Figma, Git",1.0,Data Scientist,334497
+Product Manager,"NLP, Kubernetes, SQL, Scrum",4.9,Director of Product,1152153
+AI Engineer,"Docker, MongoDB, Scrum, Git",3.7,AI Architect,618810
+Intern,"Flask, Photoshop, PyTorch",4.6,UI Designer,657690
+Intern,"SQL, AWS, Azure, Agile, PyTorch",0.2,Junior Developer,231991
+Full Stack Developer,"Django, Docker, HTML, PyTorch",1.6,Senior Full Stack Developer,334753
+DevOps Engineer,"Flask, Figma, Scrum, Linux, Excel",4.3,Cloud Engineer,1033512
+UX Designer,"Selenium, Docker, C++",3.3,Product Designer,622122
+QA Engineer,"Pandas, NLP, C++, CSS",2.3,QA Lead,617999
+Fresher,"Pandas, MongoDB, PowerBI, Selenium",4.8,Junior Developer,729723
+Intern,"C++, Python, Node.js",3.9,UI Designer,759388
+HR Executive,"Node.js, Excel, Figma, Kubernetes, TensorFlow",0.5,HR Manager,278961
+Intern,"Git, Cypress, Django, Node.js, Excel",3.6,QA Engineer,524525
+Product Manager,"Azure, Docker, TensorFlow, JavaScript, React",1.4,Director of Product,403963
+Cloud Engineer,"MongoDB, Selenium, TensorFlow, Docker, Linux",3.4,DevOps Lead,725357
+Fresher,"Figma, Scrum, MongoDB",0.7,Frontend Developer,323043
+Junior Developer,"Flask, MongoDB, React, SQL, HTML",2.8,Software Engineer,534258
+Product Manager,"Cypress, Selenium, Java",0.0,Senior Product Manager,200000
+Software Engineer,"CSS, PyTorch, Selenium, TensorFlow",3.2,Tech Lead,593206
+UI Designer,"Excel, Photoshop",1.3,UX Designer,324827
+AI Engineer,"Excel, CSS, SQL, Scrum",2.9,Tech Lead,728258
+Data Analyst,"HTML, PyTorch",1.0,BI Analyst,394248
+Backend Developer,"Azure, TensorFlow, Django",2.1,Software Engineer,504529
+Cloud Engineer,"Linux, HTML",3.5,Cloud Architect,495837
+Business Analyst,"TensorFlow, Django, Git",3.9,Product Manager,706130
+Backend Developer,"CSS, Pandas, JavaScript, React",4.7,Software Engineer,1038465
+AI Engineer,"NLP, Docker, Flask",1.7,Tech Lead,520655
+AI Engineer,"Flask, Django, Kubernetes, JavaScript",4.7,Tech Lead,587453
+Cloud Engineer,"Docker, Agile",4.5,Cloud Architect,1097475
+Frontend Developer,"Kubernetes, Figma, Pandas",4.9,UI Engineer,720130
+DevOps Engineer,"Flask, Excel, PowerBI, Selenium",4.1,Site Reliability Engineer,657691
+DevOps Engineer,"Django, Python, PowerBI, NLP, Scrum",3.6,Cloud Engineer,879471
+Cloud Engineer,"Node.js, TensorFlow, React, Java, Python",3.1,Cloud Architect,520267
+Backend Developer,"PyTorch, Azure, Kubernetes, AWS, CSS",2.3,Software Engineer,507112
+Database Admin,"Photoshop, Figma, AWS",4.0,Data Engineer,828348
+Database Admin,"Flask, Excel",0.2,Senior DBA,239631
+Software Engineer,"Scrum, Git, Java, Python, Figma",4.7,Senior Software Engineer,915603
+AI Engineer,"Agile, Node.js, Photoshop",4.0,Tech Lead,821772
+Cloud Engineer,"Docker, Scrum, Pandas",2.4,Cloud Architect,476295
+UX Designer,"CSS, React, Git, Flask",3.0,Design Lead,569957
+Junior Developer,"Django, Pandas",3.2,Software Engineer,584608
+Backend Developer,"Photoshop, TensorFlow, SQL",0.5,Full Stack Developer,268070
+Junior Developer,"PowerBI, Figma, Flask",3.7,Software Engineer,875246
+Product Manager,"Cypress, Pandas, MongoDB, HTML",2.6,Director of Product,426002
+Data Analyst,"Flask, Scrum, Cypress, AWS",3.6,BI Analyst,813098
+QA Engineer,"Photoshop, Azure, Pandas, AWS",4.0,QA Lead,705656
+DevOps Engineer,"Excel, Flask, Git",3.6,Site Reliability Engineer,864203
+Data Analyst,"Git, Kubernetes, Agile, HTML, TensorFlow",2.2,Data Scientist,473180
+Business Analyst,"Figma, Excel, PyTorch",0.5,Product Manager,260512
+Cloud Engineer,"MongoDB, PowerBI, Pandas, TensorFlow, React",1.4,DevOps Lead,453429
+UX Designer,"C++, MongoDB",2.8,Design Lead,567214
+Data Analyst,"C++, Scrum, AWS, Pandas",1.0,Data Scientist,328797
+Fresher,"Kubernetes, Azure, SQL",0.9,QA Intern,327634
+Fresher,"SQL, Scrum",3.6,Frontend Developer,757593
+Fresher,"Flask, Docker, Node.js, Selenium",4.2,QA Intern,1037967
+Fresher,"Scrum, MongoDB",2.0,Intern,473908
+Frontend Developer,"React, Java, Node.js, Pandas",4.0,UI Engineer,666132
+Data Analyst,"TensorFlow, JavaScript, Python, Figma, Azure",0.3,Data Scientist,229950
+UX Designer,"Figma, Docker",0.8,Product Designer,294781
+UI Designer,"Flask, Docker",0.8,UI/UX Lead,276630
+Frontend Developer,"Node.js, Kubernetes, Agile, Flask",1.9,UI Engineer,444949
+Machine Learning Engineer,"Selenium, Cypress, PowerBI, Git, MongoDB",3.6,AI Engineer,804699
+Data Analyst,"Kubernetes, Excel, TensorFlow, Python",2.3,BI Analyst,539130
+Junior Developer,"NLP, JavaScript, Cypress, Python, Kubernetes",1.1,Software Engineer,373837
+Data Analyst,"Docker, HTML, Linux, Photoshop",2.7,Data Scientist,733547
+Intern,"Flask, Scrum, Photoshop",2.7,UI Designer,446159
+Cybersecurity Analyst,"Azure, C++, Java, Flask, Linux",3.6,Security Engineer,655295
+AI Engineer,"Node.js, Flask, Kubernetes, Azure",1.9,AI Architect,500562
+Database Admin,"Azure, Kubernetes, Selenium, Excel, Photoshop",1.8,Data Engineer,464078
+UI Designer,"TensorFlow, NLP, Agile",1.9,UI/UX Lead,444237
+QA Engineer,"AWS, Pandas, NLP, React",3.7,QA Lead,568464
+UI Designer,"MongoDB, PowerBI",4.5,UX Designer,998241
+HR Executive,"Node.js, Excel",3.5,HR Manager,556261
+QA Engineer,"CSS, Photoshop, MongoDB, React, Agile",0.6,QA Lead,279130
+HR Executive,"TensorFlow, SQL, Photoshop, Python",1.6,People Operations Lead,445315
+Cybersecurity Analyst,"Figma, Agile, Java, Excel, Cypress",1.2,Security Engineer,423456
+Data Analyst,"HTML, PyTorch",4.2,Data Scientist,963711
+Frontend Developer,"Figma, Docker, NLP, Node.js, Pandas",1.7,Full Stack Developer,534619
+Fresher,"Python, SQL",2.2,Junior Developer,431147
+Junior Developer,"Python, HTML",4.9,Frontend Developer,687559
+Cloud Engineer,"NLP, Kubernetes, AWS, Excel",3.8,DevOps Lead,626789
+Product Manager,"HTML, NLP",3.6,Senior Product Manager,679174
+Product Manager,"CSS, SQL, Azure, Selenium",2.2,Senior Product Manager,626074
+Backend Developer,"NLP, TensorFlow, PowerBI, Git, Django",0.0,Software Engineer,200000
+UI Designer,"MongoDB, JavaScript, CSS, Python",4.5,UI/UX Lead,1091918
