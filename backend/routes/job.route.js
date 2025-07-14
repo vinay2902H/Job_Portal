@@ -13,7 +13,7 @@ router.route("/search").get(searchJobs);
 
 
 
-// Route to get job recommendations
+
 
 export default router;
 
