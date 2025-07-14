@@ -28,6 +28,10 @@ const corsOptions = {
   credentials: true,
 };
 app.use(cors(corsOptions));
+app.get("/ping", (req, res) => {
+  res.status(200).send("Job Portal backend is alive!");
+});
+
 
 // Routes
 app.use("/api/v1/user", userRoute);
