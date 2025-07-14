@@ -14,12 +14,12 @@ dotenv.config();
 
 const app = express();
 
-// Middleware
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
-// ✅ Updated CORS options
+
 const corsOptions = {
   origin: [
     "http://localhost:5173",
@@ -33,7 +33,7 @@ app.get("/ping", (req, res) => {
 });
 
 
-// Routes
+
 app.use("/api/v1/user", userRoute);
 app.use("/api/v1/company", companyRoute);
 app.use("/api/v1/job", jobRoute);
@@ -41,7 +41,7 @@ app.use("/api/v1/application", applicationRoute);
 app.use("/recommend", recommendRoute);
 app.use("/api", emailRoutes);
 
-// Sample recommendation route
+
 app.post("/recommend", (req, res) => {
   const { skills } = req.body;
 
@@ -71,9 +71,9 @@ app.post("/recommend", (req, res) => {
   res.json(sampleJobs);
 });
 
-// Start server
+
 const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {
   connectDB();
-  console.log(`🚀 Server running at port ${PORT}`);
+  console.log(` Server running at port ${PORT}`);
 });
