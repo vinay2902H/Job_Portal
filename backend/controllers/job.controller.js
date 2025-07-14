@@ -2,7 +2,7 @@ import { Job } from "../models/job.model.js";
 import express from "express";
 import axios from "axios";
 
-// admin post krega job
+
 export const postJob = async (req, res) => {
     try {
         const { title, description, requirements, salary, location, jobType, experience, position, companyId } = req.body;
@@ -35,7 +35,7 @@ export const postJob = async (req, res) => {
         console.log(error);
     }
 }
-// student k liye
+
 export const getAllJobs = async (req, res) => {
     try {
         const keyword = req.query.keyword || "";
@@ -62,7 +62,7 @@ export const getAllJobs = async (req, res) => {
         console.log(error);
     }
 }
-// student
+
 export const getJobById = async (req, res) => {
     try {
         const jobId = req.params.id;
@@ -80,7 +80,7 @@ export const getJobById = async (req, res) => {
         console.log(error);
     }
 }
-// admin kitne job create kra hai abhi tk
+
 export const getAdminJobs = async (req, res) => {
     try {
         const adminId = req.id;
@@ -135,10 +135,10 @@ export const searchJobs = async (req, res) => {
             return res.status(400).json({ error: "Query parameter is required" });
         }
 
-        // Search jobs by title, description, or skills
+      
         const jobs = await Job.find({
             $or: [
-                { title: { $regex: query, $options: "i" } }, // Case-insensitive search
+                { title: { $regex: query, $options: "i" } }, 
                 { description: { $regex: query, $options: "i" } },
                 { skills: { $regex: query, $options: "i" } }
             ]
