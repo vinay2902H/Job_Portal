@@ -88,14 +88,14 @@ export const login = async (req, res) => {
             profile: user.profile
         };
 
-        // ✅ Critical: Use SameSite=None + Secure for cross-origin cookies (Netlify + Render)
+       
         return res
             .status(200)
             .cookie("token", token, {
                 maxAge: 24 * 60 * 60 * 1000, // 1 day
                 httpOnly: true,
-                secure: true,         // ✅ REQUIRED on HTTPS (Render)
-                sameSite: "None",     // ✅ REQUIRED for cross-site (Netlify)
+                secure: true,       
+                sameSite: "None",   
             })
             .json({
                 message: `Welcome back ${user.fullname}`,
@@ -130,14 +130,14 @@ export const updateProfile = async (req, res) => {
         const file = req.file;
 
         if (file) {
-            // Only upload if file exists
+           
             const fileUri = getDataUri(file);
             cloudResponse = await cloudinary.uploader.upload(fileUri.content);
         }
 
         const skillsArray = skills ? skills.split(",") : [];
 
-        const userId = req.id; // from middleware
+        const userId = req.id; 
         let user = await User.findById(userId);
 
         if (!user) {
@@ -147,7 +147,7 @@ export const updateProfile = async (req, res) => {
             });
         }
 
-        // Update fields if provided
+       
         if (fullname) user.fullname = fullname;
         if (email) user.email = email;
         if (phoneNumber) user.phoneNumber = phoneNumber;
